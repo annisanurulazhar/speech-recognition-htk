@@ -1,0 +1,110 @@
+WARNING: no script file lexicon/lexicon.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+     lexicon      8047       7831       9146       8925
+        dict      7831       7831       8925       8924
+
+7831 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     : 10386
+  2. sp    :  8927
+  3. h     :  1120
+  4. k     :  3263
+  5. u     :  2767
+  6. l     :  2206
+  7. n     :  4513
+  8. p     :  2072
+  9. b     :  1773
+ 10. t     :  3086
+ 11. w     :   410
+ 12. @     :  4134
+ 13. r     :  3500
+ 14. g     :   853
+ 15. bu    :     1
+ 16. c     :   445
+ 17. i     :  5143
+ 18. d     :  1814
+ 19. m     :  2851
+ 20. ng    :  1335
+ 21. s     :  3194
+ 22. z     :    35
+ 23. o     :  1724
+ 24. y     :   475
+ 25. e     :  2014
+ 26. @h    :     1
+ 27. f     :   451
+ 28. j     :   591
+ 29. ny    :  1139
+ 30. ay    :   166
+ 31. kh    :    15
+ 32. v     :    88
+ 33. ll    :     1
+ 34. x     :    10
+ 35. el    :     2
+ 36. ai    :     4
+ 37. aw    :    62
+ 38. sy    :    32
+ 39. au    :     2
+ 40. be    :     2
+ 41. ce    :     1
+ 42. pa    :     1
+ 43. st    :     7
+ 44. gu    :     1
+ 45. sh    :     1
+ 46. ck    :     1
+ 47. oy    :     3
+ 48. ow    :     1
+ 49. wa    :     6
+ 50. si    :     3
+ 51. ch    :     4
+ 52. ns    :     1
+ 53. ol    :     2
+ 54. ey    :     8
+ 55. nt    :     2
+ 56. ps    :     1
+ 57. di    :     2
+ 58. es    :     5
+ 59. em    :     2
+ 60. ef    :     3
+ 61. rt    :     2
+ 62. ks    :     2
+ 63. tr    :     5
+ 64. ew    :     3
+ 65. @y    :     1
+ 66. ya    :     6
+ 67. er    :     2
+ 68. la    :     1
+ 69. ei    :     1
+ 70. gr    :     4
+ 71. pr    :     5
+ 72. na    :     1
+ 73. k@    :     1
+ 74. an    :     3
+ 75. ka    :     2
+ 76. we    :     3
+ 77. wu    :     2
+ 78. yi    :     1
+ 79. ye    :     1
+ 80. in    :     1
+ 81. br    :     3
+ 82. pe    :     2
+ 83. pl    :     1
+ 84. rm    :     1
+ 85. fw    :     1
+ 86. at    :     1
+ 87. am    :     1
+ 88. rd    :     1
+ 89. ft    :     1
+ 90. da    :     1
+ 91. te    :     1
+ 92. ma    :     1
+ 93. ap    :     1
+ 94. et    :     1
+ 95. rk    :     1
+ 96. fl    :     1
+
+Dictionary dict created
