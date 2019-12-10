@@ -1,3 +1,4 @@
+</s>			[</s>]			s sp
 <a>             [<a>]           a sp
 <ah>            [<ah>]          a h sp
 <aha>           [<aha>]         a h a sp
@@ -124,6 +125,7 @@
 <perusaan>      [<perusaan>]    p @ r u s a a n sp
 <radit>         [<radit>]       r a d i t sp
 <ru>            [<ru>]          r u sp
+<s>				[<s>]			s sp
 <sa>            [<sa>]          s a sp
 <sapa>          [<sapa>]        s a p a sp
 <sara>          [<sara>]        s a r a sp
@@ -159,6 +161,8 @@
 <yak>           [<yak>]         y a k sp
 <yan>           [<yan>]         y a n sp
 <yang>          [<yang>]        y a ng sp
+SENT-END        []              sil
+SENT-START      []              sil
 a               [a]             a sp
 aa              [aa]            a a sp
 abadi           [abadi]         a b a d i sp
@@ -7598,8 +7602,6 @@ senopati        [senopati]      s e n o p a t i sp
 sensasi         [sensasi]       s e n s a s i sp
 sensitivas      [sensitivas]    s e n s i t i f a s sp
 sensorik        [sensorik]      s e n s o r i k sp
-SENT-END        []              sil
-SENT-START      []              sil
 sentence        [sentence]      s e n t @ n s sp
 senti           [senti]         s e n t i sp
 sentimen        [sentimen]      s e n t i m e n sp
