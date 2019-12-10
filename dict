@@ -674,7 +674,6 @@ apresiasinya    [apresiasinya]  a p r e s i a s i ny a sp
 april           [april]         a p r i l sp
 aprons          [aprons]        a p r o n s sp
 aqua            [aqua]          a k u a sp
-aqua            [aqua]          a q u a sp
 ar              [ar]            a r sp
 arah            [arah]          a r a h sp
 arahannya       [arahannya]     a r a h a n n y a sp
@@ -5542,9 +5541,8 @@ ip              [ip]            i p e sp
 ipa             [ipa]           i p a sp
 iphone          [iphone]        a y f o n sp
 iphone          [iphone]        i p h o n e sp
-iq              [iq]            i q sp
+iq              [iq]            i k sp
 iqbal           [iqbal]         i k b a l sp
-iqbal           [iqbal]         i q b a l sp
 ir              [ir]            i r sp
 iri             [iri]           i r i sp
 irisan          [irisan]        i r i s a n sp
@@ -12772,16 +12770,11 @@ pylori          [pylori]        p y l o r i sp
 pymes           [pymes]         p ay m s sp
 pymes           [pymes]         p y m e s sp
 pyridine        [pyridine]      p y r i d i n e sp
-qi              [qi]            q i sp
 qih             [qih]           k i h sp
-qih             [qih]           q i h sp
 quality         [quality]       k u a l i t i sp
-quality         [quality]       q u a l i t y sp
 quantum         [quantum]       k u a n t u m sp
-quantum         [quantum]       q u a n t u m sp
 query           [query]         k u e r i sp
-query           [query]         q u e r y sp
-quinoline       [quinoline]     q u i n o l i n e sp
+quinoline       [quinoline]     k u i n o l i n e sp
 r               [r]             e r sp
 r               [r]             r sp
 rabu            [rabu]          r a b u sp
@@ -13013,10 +13006,10 @@ reproduksi      [reproduksi]    r e p r o d u k s i sp
 republik        [republik]      r e p u b l i k sp
 reputasi        [reputasi]      r e p u t a s i sp
 reputasimu      [reputasimu]    r e p u t a s i m u sp
-requirement     [requirement]   r e q u i r e m e n t sp
+requirement     [requirement]   r e k u i r e m e n t sp
 requirement     [requirement]   r i k u w a i r m e n sp
 requirementnya  [requirementnya] r e k u w a i r m e n ny a sp
-requirementnya  [requirementnya] r e q u i r e m e n t n y a sp
+requirementnya  [requirementnya] r e k u i r e m e n t n y a sp
 research        [research]      r e s e a r c h sp
 research        [research]      r i s @ r ch sp
 resep           [resep]         r @ s e p sp
@@ -13113,7 +13106,6 @@ ride            [ride]          r i d e sp
 rido            [rido]          r i d o sp
 rifo            [rifo]          r i f o sp
 rifqi           [rifqi]         r i f k i sp
-rifqi           [rifqi]         r i f q i sp
 rik             [rik]           r i k sp
 rika            [rika]          r i k a sp
 rikter          [rikter]        r i k t @ r sp
@@ -13681,7 +13673,6 @@ seihlasnya      [seihlasnya]    s @ i h l a s ny a sp
 seihlasnya      [seihlasnya]    s e i h l a s n y a sp
 seimbang        [seimbang]      s @ i m b a ng sp
 seimbang        [seimbang]      s e i m b a n g sp
-seimbang;       [seimbang;]     s e i m b a n g ; sp
 seimbangnya     [seimbangnya]   s e i m b a n g n y a sp
 seindah         [seindah]       s @ i n d a h sp
 seindah         [seindah]       s e i n d a h sp
@@ -14398,7 +14389,6 @@ siuman          [siuman]        s i u m a n sp
 siuman          [siuman]        s i y u m a n sp
 siung           [siung]         s i u n g sp
 sjogren         [sjogren]       s j o g r e n sp
-sj\303\243\302\266gren [sj\303\243\302\266gren] s j \303\243 \302\266 g r e n sp
 skala           [skala]         s @ k a l a sp
 skala           [skala]         s k a l a sp
 skarlatina      [skarlatina]    s k a r l a t i n a sp
@@ -14534,7 +14524,7 @@ sprint          [sprint]        sp r i nt sp
 sprue           [sprue]         s p r u e sp
 sputum          [sputum]        s p u t u m sp
 square          [square]        s k u w e r sp
-square          [square]        s q u a r e sp
+square          [square]        s k u a r e sp
 sri             [sri]           s r i sp
 stabil          [stabil]        s t a b i l sp
 stabilitas      [stabilitas]    s t a b i l i t a s sp
@@ -14888,7 +14878,7 @@ tanda           [tanda]         t a n d a sp
 tanda-tanda     [tanda-tanda]   t a n d a t a n d a sp
 tandanya        [tandanya]      t a n d a n y a sp
 tandanya        [tandanya]      t a n d a ny a sp
-tanda\302\255-tanda [tanda\302\255-tanda] t a n d a \302\255 t a n d a sp
+tanda-tanda 	[tanda-tanda] 	t a n d a t a n d a sp
 tanding         [tanding]       t a n d i n g sp
 tanding         [tanding]       t a n d i ng sp
 tangan          [tangan]        t a n g a n sp
