@@ -1,4 +1,3 @@
-</s>			[</s>]			s sp
 <a>             [<a>]           a sp
 <ah>            [<ah>]          a h sp
 <aha>           [<aha>]         a h a sp
@@ -125,7 +124,7 @@
 <perusaan>      [<perusaan>]    p @ r u s a a n sp
 <radit>         [<radit>]       r a d i t sp
 <ru>            [<ru>]          r u sp
-<s>				[<s>]			s sp
+<s>             [<s>]           s sp
 <sa>            [<sa>]          s a sp
 <sapa>          [<sapa>]        s a p a sp
 <sara>          [<sara>]        s a r a sp
@@ -161,8 +160,6 @@
 <yak>           [<yak>]         y a k sp
 <yan>           [<yan>]         y a n sp
 <yang>          [<yang>]        y a ng sp
-SENT-END        []              sil
-SENT-START      []              sil
 a               [a]             a sp
 aa              [aa]            a a sp
 abadi           [abadi]         a b a d i sp
@@ -178,6 +175,7 @@ abu             [abu]           a b u sp
 abu-abu         [abu-abu]       a b u a b u sp
 abu-abunya      [abu-abunya]    a b u a b u ny a sp
 ac              [ac]            a s e sp
+acak            [acak]          a c a k sp
 acara           [acara]         a c a r a sp
 acaranya        [acaranya]      a c a r a ny a sp
 acc             [acc]           a c e c e sp
@@ -197,11 +195,12 @@ adegan          [adegan]        a d @ g a n sp
 adegan          [adegan]        a d e g a n sp
 adek            [adek]          a d e k sp
 adeknya         [adeknya]       a d e k ny a sp
-adik            [adik]          a d i k sp
 adik            [adik]          a d i sp
+adik            [adik]          a d i k sp
 adik-adik       [adik-adik]     a d i k a d i k sp
 adikku          [adikku]        a d i k k u sp
 adikku          [adikku]        a d i k u sp
+adiknya         [adiknya]       a d i k ny a sp
 adiku           [adiku]         a d i k u sp
 aditya          [aditya]        a d i t y a sp
 administrasi    [administrasi]  a d m i n i s t r a s i sp
@@ -213,8 +212,8 @@ aduh            [aduh]          a d u h sp
 aduk            [aduk]          a d u k sp
 aerosol         [aerosol]       a e r o s o l sp
 affiliate       [affiliate]     e f i l i e t sp
-agak            [agak]          a g a k sp
 agak            [agak]          a g a sp
+agak            [agak]          a g a k sp
 agama           [agama]         a g a m a sp
 agar            [agar]          a g a r sp
 agate           [agate]         a g a t e sp
@@ -241,6 +240,7 @@ ajah            [ajah]          a j a h sp
 ajaibnya        [ajaibnya]      a j a y i b ny a sp
 ajak            [ajak]          a j a k sp
 ajang           [ajang]         a j a ng sp
+ajar            [ajar]          a j a r sp
 ajarin          [ajarin]        a j a r i n sp
 ajarkan         [ajarkan]       a j a r k a n sp
 aji             [aji]           a j i sp
@@ -341,8 +341,8 @@ ampere          [ampere]        a m p e r sp
 ampuh           [ampuh]         a m p u h sp
 ampun           [ampun]         a m p u n sp
 amri            [amri]          a m r i sp
-anak            [anak]          a n a k sp
 anak            [anak]          a n a sp
+anak            [anak]          a n a k sp
 anak-anak       [anak-anak]     a n a k a n a k sp
 anak-anaknya    [anak-anaknya]  a n a k a n a k ny a sp
 anaknya         [anaknya]       a n a k ny a sp
@@ -424,11 +424,12 @@ apks            [apks]          a p e k a e s sp
 aplikasi        [aplikasi]      a p l i k a s i sp
 aplikasi-aplikasi [aplikasi-aplikasi] a p l i k a s i a p l i k a s i sp
 aplikasinya     [aplikasinya]   a p l i k a s i ny a sp
-apotek          [apotek]        a p o t e k sp
 apotek          [apotek]        a p o t e sp
+apotek          [apotek]        a p o t e k sp
 apoteker        [apoteker]      a p o t e k @ r sp
-apotik          [apotik]        a p o t i k sp
+apotekernya     [apotekernya]   a p o t e k e r ny a sp
 apotik          [apotik]        a p o t i sp
+apotik          [apotik]        a p o t i k sp
 apply           [apply]         @ p l a i sp
 apply           [apply]         @ p l ay sp
 approval        [approval]      a p r u v a l sp
@@ -560,8 +561,8 @@ ayuk            [ayuk]          a y u k sp
 ayunda          [ayunda]        a y u n d a sp
 azam            [azam]          a z a m sp
 azis            [azis]          a z i s sp
-b               [b]             b e sp
 b               [b]             b sp
+b               [b]             b e sp
 bab             [bab]           b a b sp
 baca            [baca]          b a c a sp
 baca-baca       [baca-baca]     b a c a b a c a sp
@@ -599,8 +600,8 @@ bahaya          [bahaya]        b a h ay a sp
 bahkah          [bahkah]        b a h k a h sp
 bahkan          [bahkan]        b a h k a n sp
 bahwa           [bahwa]         b a h w a sp
-baik            [baik]          b a i k sp
 baik            [baik]          b a i sp
+baik            [baik]          b a i k sp
 baik            [baik]          b a y i k sp
 baik            [baik]          b ay k sp
 baik-baik       [baik-baik]     b a i k b a i k sp
@@ -658,8 +659,8 @@ bantuin         [bantuin]       b a n t u i n sp
 bantuin         [bantuin]       b a n t u y i n sp
 banu            [banu]          b a n u sp
 banyak          [banyak]        b a n y a k sp
-banyak          [banyak]        b a ny a k sp
 banyak          [banyak]        b a ny a sp
+banyak          [banyak]        b a ny a k sp
 banyak-banyak   [banyak-banyak] b a ny a k b a ny a k sp
 banyak-banyaknya [banyak-banyaknya] b a ny a k b a ny a k ny a sp
 banyakan        [banyakan]      b a ny a k a n sp
@@ -667,8 +668,8 @@ banyaknya       [banyaknya]     b a ny a k ny a sp
 banyuasin       [banyuasin]     b a ny u a s i n sp
 banyusari       [banyusari]     b a ny u s a r i sp
 bapa            [bapa]          b a p a sp
-bapak           [bapak]         b a p a k sp
 bapak           [bapak]         b a p a sp
+bapak           [bapak]         b a p a k sp
 bapak-bapak     [bapak-bapak]   b a p a k b a p a k sp
 bapak-ibu       [bapak-ibu]     b a p a k i b u sp
 bapaknya        [bapaknya]      b a p a k ny a sp
@@ -758,8 +759,8 @@ begadang        [begadang]      b @ g a d a ng sp
 begini          [begini]        b @ g i n i sp
 begitu          [begitu]        b @ g i t u sp
 begitu          [begitu]        b e g i t u sp
-behel           [behel]         b e h @ l ny a sp
 behel           [behel]         b e h @ l sp
+behel           [behel]         b e h @ l ny a sp
 behelnya        [behelnya]      b e h @ l ny a sp
 bejo            [bejo]          b @ j o sp
 bekal           [bekal]         b @ k a l sp
@@ -790,8 +791,8 @@ beliau          [beliau]        b @ l i y aw sp
 beliin          [beliin]        b @ l i i n sp
 belinya         [belinya]       b @ l i ny a sp
 belitung        [belitung]      b @ l i t u ng sp
-belok           [belok]         b e l o k sp
 belok           [belok]         b e l o sp
+belok           [belok]         b e l o k sp
 belom           [belom]         b @ l o m sp
 belum           [belum]         b @ l o m sp
 belum           [belum]         b @ l u m sp
@@ -827,7 +828,6 @@ bentuk          [bentuk]        b @ n t u k sp
 bentuknya       [bentuknya]     b @ n t u k ny a sp
 benturan        [benturan]      b @ n t u r a n sp
 ber             [ber]           b @ r sp
-ber\302\255konsentrasi [ber\302\255konsentrasi] b @ r k o n s e n t r a s i sp
 berada          [berada]        b @ r a d a sp
 beradaptasi     [beradaptasi]   b @ r a d a p t a s i sp
 beragam         [beragam]       b @ r a g a m sp
@@ -847,6 +847,7 @@ beranjak        [beranjak]      b @ r a n j a k sp
 berantem        [berantem]      b @ r a n t @ m sp
 berapa          [berapa]        b @ r a p a sp
 berapaan        [berapaan]      b @ r a p a a n sp
+berapapun       [berapapun]     b @ r a p a p u n sp
 berargumen      [berargumen]    b @ r a r g u m e n sp
 berarti         [berarti]       b @ r a r t i sp
 berasa          [berasa]        b @ r a s a sp
@@ -982,6 +983,7 @@ berkisar        [berkisar]      b @ r k i s a r sp
 berkomentar     [berkomentar]   b @ r k o m @ n t a r sp
 berkomentar     [berkomentar]   b @ r k o m e n t a r sp
 berkomunikasi   [berkomunikasi] b @ r k o m u n i k a s i sp
+berkonsentrasi  [berkonsentrasi] b @ r k o n s e n t r a s i sp
 berkontradiksi  [berkontradiksi] b @ r k o n t r a d i k s i sp
 berkontribusi   [berkontribusi] b @ r k o n t r i b u s i sp
 berkualitas     [berkualitas]   b @ r k u a l i t a s sp
@@ -1105,6 +1107,7 @@ berusia         [berusia]       b @ r u s i y a sp
 bervariasi      [bervariasi]    b @ r f a r i a s i sp
 berwarna        [berwarna]      b @ r w a r n a sp
 berwibawa       [berwibawa]     b @ r w i b a w a sp
+ber\302\255konsentrasi [ber\302\255konsentrasi] b @ r k o n s e n t r a s i sp
 besar           [besar]         b @ s a r sp
 besar           [besar]         b e s a r sp
 besaran         [besaran]       b @ s a r a n sp
@@ -1124,12 +1127,13 @@ biang           [biang]         b i a ng sp
 biar            [biar]          b i a r sp
 biar            [biar]          b i y a r sp
 biarin          [biarin]        b i a r i n sp
+biarkan         [biarkan]       b i y a r k a n sp
 bias            [bias]          b i a s sp
 biasa           [biasa]         b i a s a sp
 biasa           [biasa]         b i y a s a sp
 biasalah        [biasalah]      b i y a s a l a h sp
-biasanya        [biasanya]      b i a s a ny a sp
 biasanya        [biasanya]      b i a s a ny sp
+biasanya        [biasanya]      b i a s a ny a sp
 biasanya        [biasanya]      b i y a s a ny a sp
 biaya           [biaya]         b i a y a sp
 biaya           [biaya]         b i y a y a sp
@@ -1268,6 +1272,7 @@ buatlah         [buatlah]       b u a t l a h sp
 buatlah         [buatlah]       b u wa t l a h sp
 buaya           [buaya]         b u a y a sp
 bubar           [bubar]         b u b a r sp
+bubur           [bubur]         b u b u r sp
 bud             [bud]           b u d sp
 budaya          [budaya]        b u d a y a sp
 budgetnya       [budgetnya]     b a d j @ t ny a sp
@@ -1326,8 +1331,8 @@ by              [by]            b ay sp
 by              [by]            b y sp
 bye             [bye]           b a i sp
 byte            [byte]          b ay t sp
-c               [c]             c e sp
 c               [c]             c sp
+c               [c]             c e sp
 cabang          [cabang]        c a b a ng sp
 cabut           [cabut]         c a b u t sp
 cacar           [cacar]         c a c a r sp
@@ -1494,8 +1499,8 @@ corgi           [corgi]         k o r g i sp
 corner          [corner]        k o r n @ r sp
 correction      [correction]    k o r e k sy o n sp
 cowo            [cowo]          c o w o sp
-cowok           [cowok]         c o w o k sp
 cowok           [cowok]         c o w o sp
+cowok           [cowok]         c o w o k sp
 cowoknya        [cowoknya]      c o w o k ny a sp
 crash           [crash]         k r e s sp
 crcs            [crcs]          c r c s sp
@@ -1539,8 +1544,8 @@ dagangannya     [dagangannya]   d a g a ng a n ny a sp
 daging          [daging]        d a g i ng sp
 dago            [dago]          d a g o sp
 dah             [dah]           d a h sp
-dahak           [dahak]         d a h a k sp
 dahak           [dahak]         d a h a sp
+dahak           [dahak]         d a h a k sp
 dahaknya        [dahaknya]      d a h a k ny a sp
 dahsyat         [dahsyat]       d a h sy a t sp
 dahulu          [dahulu]        d a h u l u sp
@@ -1576,8 +1581,8 @@ dasar           [dasar]         d a s a r sp
 dasarnya        [dasarnya]      d a s a r ny a sp
 data            [data]          d a t a sp
 database        [database]      d a t a b e s sp
-databasenya     [databasenya]   d a t a b e s ny a sp
 databasenya     [databasenya]   d a t a b e s ny sp
+databasenya     [databasenya]   d a t a b e s ny a sp
 datang          [datang]        d a t @ ng sp
 datang          [datang]        d a t a n g sp
 datang          [datang]        d a t a ng sp
@@ -1617,8 +1622,8 @@ definisi        [definisi]      d e f i n i s i sp
 degradasi       [degradasi]     d e g r a d a s i sp
 deh             [deh]           d @ h sp
 deh             [deh]           d e h sp
-dek             [dek]           d e k sp
 dek             [dek]           d e sp
+dek             [dek]           d e k sp
 dekat           [dekat]         d @ k @ t sp
 dekat           [dekat]         d @ k a t sp
 dekatnya        [dekatnya]      d @ k a t ny a sp
@@ -1757,6 +1762,7 @@ diare           [diare]         d i y a r e sp
 diasesmen       [diasesmen]     d i a s e s m @ n sp
 diasumsikan     [diasumsikan]   d i a s u m s i k a n sp
 diatas          [diatas]        d i a t a s sp
+diatasi         [diatasi]       d i a t a s i sp
 diawal          [diawal]        d i a w a l sp
 diawali         [diawali]       d i a w a l i sp
 dibaca          [dibaca]        d i b a c a sp
@@ -1923,8 +1929,8 @@ dijelaskan      [dijelaskan]    d i j e l a s k a n sp
 dijual          [dijual]        d i j u a l sp
 dijual          [dijual]        d i j u w a l sp
 dijual          [dijual]        di j u a l sp
-dik             [dik]           d i k sp
 dik             [dik]           d i sp
+dik             [dik]           d i k sp
 dikabarin       [dikabarin]     d i k a b a r i n sp
 dikabulkan      [dikabulkan]    d i k a b u l k a n sp
 dikarantina     [dikarantina]   d i k a r a n t i n a sp
@@ -2232,6 +2238,7 @@ ditambah        [ditambah]      d i t a m b a h sp
 ditambahin      [ditambahin]    d i t a m b a h i n sp
 ditambahkan     [ditambahkan]   d i t a m b a h k a n sp
 ditambal        [ditambal]      d i t a m b a l sp
+ditambalnya     [ditambalnya]   d i t a m b a l ny a sp
 ditambel        [ditambel]      d i t a m b @ l sp
 ditampilkan     [ditampilkan]   d i t a m p i l k a n sp
 ditampung       [ditampung]     d i t a m p u ng sp
@@ -2464,8 +2471,8 @@ empatan         [empatan]       @ m p a t a n sp
 empatnya        [empatnya]      @ m p a t ny a sp
 empuk           [empuk]         @ m p u k sp
 enak            [enak]          @ n a k sp
-enak            [enak]          e n a k sp
 enak            [enak]          e n a sp
+enak            [enak]          e n a k sp
 enak-enak       [enak-enak]     e n a k e n a k sp
 enakan          [enakan]        e n a k a n sp
 enaknya         [enaknya]       e n a k ny a sp
@@ -2478,8 +2485,8 @@ energi          [energi]        e n e r g i sp
 energik         [energik]       e n e r g i k sp
 energinya       [energinya]     @ n @ r g i ny a sp
 engga           [engga]         @ ng g a sp
-enggak          [enggak]        @ ng g a k sp
 enggak          [enggak]        @ ng g a sp
+enggak          [enggak]        @ ng g a k sp
 engineer        [engineer]      e n j i n i r sp
 engineering     [engineering]   e n j i n e r i ng sp
 english         [english]       e ng l i s h sp
@@ -2620,8 +2627,8 @@ frekuensi       [frekuensi]     f r e k u e n s i sp
 frekuensi       [frekuensi]     f r e k u w e n s i sp
 front           [front]         f r o n sp
 frsnya          [frsnya]        ef er es ny a sp
-full            [full]          f u l l sp
 full            [full]          f u l sp
+full            [full]          f u l l sp
 fun             [fun]           f a n sp
 fundamentalnya  [fundamentalnya] f u n d a m e n t a l ny a sp
 funding         [funding]       f a n d i n g sp
@@ -2647,8 +2654,8 @@ gagasan         [gagasan]       g a g a s a n sp
 gajelas         [gajelas]       g a j e l a s sp
 gaji            [gaji]          g a j i sp
 gajinya         [gajinya]       g a j i ny a sp
-gak             [gak]           g a k sp
 gak             [gak]           g a sp
+gak             [gak]           g a k sp
 gakkum          [gakkum]        g a k k u m sp
 galak           [galak]         g a l a k sp
 galaksi         [galaksi]       g a l a k s i sp
@@ -2852,8 +2859,8 @@ hahahaha        [hahahaha]      h a h a h a h a sp
 hai             [hai]           h a i sp
 hai             [hai]           h ay sp
 hailing         [hailing]       h ay l i ng sp
-hak             [hak]           h a k sp
 hak             [hak]           h a sp
+hak             [hak]           h a k sp
 hak-haknya      [hak-haknya]    h a k h a k ny a sp
 hal             [hal]           h a l sp
 hal-hal         [hal-hal]       h a l h a l sp
@@ -3325,6 +3332,7 @@ jelek           [jelek]         j @ l e k sp
 jem             [jem]           j @ m sp
 jembatan        [jembatan]      j @ m b a t a n sp
 jempol          [jempol]        j @ m p o l sp
+jemput          [jemput]        j @ m p u t sp
 jen             [jen]           j e n sp
 jenasah         [jenasah]       j @ n a s a h sp
 jenazah         [jenazah]       j @ n a s a h sp
@@ -3426,21 +3434,22 @@ kaget           [kaget]         k a g e t sp
 kagum           [kagum]         k a g u m sp
 kah             [kah]           k a h sp
 kahfi           [kahfi]         k a h f i sp
-kak             [kak]           k a k sp
 kak             [kak]           k a sp
-kakak           [kakak]         k a k a k sp
+kak             [kak]           k a k sp
 kakak           [kakak]         k a k a sp
+kakak           [kakak]         k a k a k sp
 kakaktua        [kakaktua]      k a k a k t u a sp
 kakap           [kakap]         k a k a p sp
 kakas           [kakas]         k a k a s sp
-kakek           [kakek]         k a k e k sp
 kakek           [kakek]         k a k e sp
+kakek           [kakek]         k a k e k sp
 kakek-kakek     [kakek-kakek]   k a k e k k a k e k sp
 kaki            [kaki]          k a k i sp
 kakiku          [kakiku]        k a k i k u sp
 kakinya         [kakinya]       k a k i ny a sp
 kala            [kala]          k a l a sp
 kalah           [kalah]         k a l a h sp
+kalangan        [kalangan]      k a l a ng a n sp
 kalau           [kalau]         k a l a u sp
 kalau           [kalau]         k a l a w sp
 kalau           [kalau]         k a l aw sp
@@ -3533,8 +3542,8 @@ kas             [kas]           k a s sp
 kasar           [kasar]         k a s a r sp
 kasat           [kasat]         k a s a t sp
 kasian          [kasian]        k a s i a n sp
-kasih           [kasih]         k a s i h sp
 kasih           [kasih]         k a s i sp
+kasih           [kasih]         k a s i h sp
 kasihan         [kasihan]       k a s i h a n sp
 kasir           [kasir]         k a s i r sp
 kasubdit        [kasubdit]      k a s u b d i t sp
@@ -3556,8 +3565,8 @@ kawan-kawannya  [kawan-kawannya] k a w a n k a w a n ny a sp
 kawasan         [kawasan]       k a w a s a n sp
 kawatir         [kawatir]       k a w a t i r sp
 kaya            [kaya]          k a y a sp
-kayak           [kayak]         k a y a k sp
 kayak           [kayak]         k a y a sp
+kayak           [kayak]         k a y a k sp
 kayaknya        [kayaknya]      k a y a k ny a sp
 kayaknya        [kayaknya]      k a y a ny a sp
 kayanya         [kayanya]       k a y a ny a sp
@@ -3579,6 +3588,7 @@ kebaca          [kebaca]        k @ b a c a sp
 kebagian        [kebagian]      k @ b a g i y a n sp
 kebakaran       [kebakaran]     k @ b a k a r a n sp
 kebaktian       [kebaktian]     k @ b a k t i a n sp
+kebal           [kebal]         k @ b a l sp
 kebanggannya    [kebanggannya]  k @ b a ng g a n ny a sp
 kebangun        [kebangun]      k @ b a ng u n sp
 kebanyakan      [kebanyakan]    k @ b a ny a k a n sp
@@ -3607,6 +3617,7 @@ kebutuhan       [kebutuhan]     k @ b u t u h a n sp
 kebutuhan       [kebutuhan]     k e b u t u h a n sp
 kebutuhan       [kebutuhan]     k@ b u t u h a n sp
 kebutuhannya    [kebutuhannya]  k @ b u t u h a n ny a sp
+kecacatan       [kecacatan]     k @ c a c a t a n sp
 kecamatan       [kecamatan]     k @ c a m a t a n sp
 kecantikanmu    [kecantikanmu]  k @ c a n t i k a n m u sp
 kecapean        [kecapean]      k e c a p e a n sp
@@ -3656,6 +3667,7 @@ kehebohan       [kehebohan]     k @ h e b o h a n sp
 kehidupan       [kehidupan]     k @ h i d u p a n sp
 kehijauan       [kehijauan]     k @ h i j aw a n sp
 kehilangan      [kehilangan]    k @ h i l a ng a n sp
+kehujanan       [kehujanan]     k @ h u j a n a n sp
 kehutanan       [kehutanan]     k @ h u t a n a n sp
 keindahan       [keindahan]     k @ i n d a h a n sp
 keinginannya    [keinginannya]  k @ i ng i n a n ny a sp
@@ -3689,6 +3701,7 @@ kelahirannya    [kelahirannya]  k @ l a h i r a n ny a sp
 kelalaian       [kelalaian]     k @ l a l ay a n sp
 kelamaan        [kelamaan]      k @ l a m a a n sp
 kelancaran      [kelancaran]    k @ l a n c a r a n sp
+kelanjutan      [kelanjutan]    k @ l a n j u t a n sp
 kelar           [kelar]         k @ l a r sp
 kelarin         [kelarin]       k @ l a r i n sp
 kelas           [kelas]         k @ l a s sp
@@ -3818,8 +3831,8 @@ kepribadian     [kepribadian]   k @ p r i b a d i y a n sp
 kepuasan        [kepuasan]      k @ p u a s a n sp
 kepuasan        [kepuasan]      k @ p u w a s a n sp
 kepulan         [kepulan]       k @ p u l a n sp
-keputusan       [keputusan]     k @ p u t u s a n ny a sp
 keputusan       [keputusan]     k @ p u t u s a n sp
+keputusan       [keputusan]     k @ p u t u s a n ny a sp
 keracunan       [keracunan]     k @ r a c u n a n sp
 kerahasiaan     [kerahasiaan]   k @ r a h a s i y a a n sp
 kerangka        [kerangka]      k @ r a ng k a sp
@@ -3859,6 +3872,7 @@ kerupuk         [kerupuk]       k @ r u p u k sp
 kerusakan       [kerusakan]     k @ r u s a k a n sp
 kesabaran       [kesabaran]     k @ s a b a r a n sp
 kesadaran       [kesadaran]     k @ s a d a r a n sp
+kesakitan       [kesakitan]     k @ s a k i t a n sp
 kesaktian       [kesaktian]     k @ s a k t i a n sp
 kesalahan       [kesalahan]     k @ s a l a h a n sp
 kesan           [kesan]         k @ s a n sp
@@ -3907,6 +3921,7 @@ ketentuan       [ketentuan]     k @ t @ n t u a n sp
 keterampilan    [keterampilan]  k @ t @ r a m p i l a n sp
 keterangan      [keterangan]    k @ t @ r a ng a n sp
 keterangannya   [keterangannya] k @ t @ r a ng a n ny a sp
+keterbatasan    [keterbatasan]  k @ t @ r b a t a s a n sp
 ketergantungan  [ketergantungan] k @ t @ r g a n t u ng a n sp
 keterlambatan   [keterlambatan] k @ t @ r l a m b a t a n sp
 keterlibatan    [keterlibatan]  k @ t @ r l i b a t a n sp
@@ -3963,6 +3978,7 @@ kilogram        [kilogram]      k i l o g r a m sp
 kilometer       [kilometer]     k i l o m @ t @ r sp
 kilometer       [kilometer]     k i l o m e t @ r sp
 kilometer       [kilometer]     k i l o m e t e r sp
+kimia           [kimia]         k i m i y a sp
 kinerja         [kinerja]       k i n @ r j a sp
 kinerja         [kinerja]       k i n e r j a sp
 kinerja-kinerja [kinerja-kinerja] k i n @ r j a k i n @ r j a sp
@@ -4003,8 +4019,8 @@ koding          [koding]        k o d i ng sp
 koin            [koin]          k o i n sp
 koin-koin       [koin-koin]     k o i n k o i n sp
 koinnya         [koinnya]       k o i n ny a sp
-kok             [kok]           k o k sp
 kok             [kok]           k o sp
+kok             [kok]           k o k sp
 kolam           [kolam]         k o l a m sp
 koleksi         [koleksi]       k o l e k s i sp
 kolesterol      [kolesterol]    k o l e s t r o l sp
@@ -4141,6 +4157,7 @@ kuantitatif     [kuantitatif]   k u a n t i t a t i f sp
 kuantum         [kuantum]       k u a n t u m sp
 kuantumnya      [kuantumnya]    k u a n t u m ny a sp
 kuat            [kuat]          k u a t sp
+kuatir          [kuatir]        k u w a t i r sp
 kubernetes      [kubernetes]    k u b e r n e t s sp
 kublet          [kublet]        k u b l e t sp
 kucek           [kucek]         k u c @ k sp
@@ -4150,6 +4167,7 @@ kuduga          [kuduga]        k u d u g a sp
 kue             [kue]           k u e sp
 kue             [kue]           k u w e sp
 kuesioner       [kuesioner]     k u e s i o n e r sp
+kuhancurkan     [kuhancurkan]   k u h a n c u r k a n sp
 kuhasut         [kuhasut]       k u h a s u t sp
 kuizo           [kuizo]         k u i z o sp
 kukabari        [kukabari]      k u k a b a r i sp
@@ -4165,6 +4183,7 @@ kumpul          [kumpul]        k u m p u l sp
 kumpulan        [kumpulan]      k u m p u l a n sp
 kumpulan-kumpulan [kumpulan-kumpulan] k u m p u l a n k u m p u l a n sp
 kumpulin        [kumpulin]      k u m p u l i n sp
+kumur           [kumur]         k u m u r sp
 kunci           [kunci]         k u n c i sp
 kunciin         [kunciin]       k u n c i i n sp
 kuning          [kuning]        k u n i ng sp
@@ -4210,8 +4229,8 @@ lagian          [lagian]        l a g i y a n sp
 lagipula        [lagipula]      l a g i p u l a sp
 lagu            [lagu]          l a g u sp
 lagunya         [lagunya]       l a g u ny a sp
-lah             [lah]           l a h sp
 lah             [lah]           l a sp
+lah             [lah]           l a h sp
 lahiran         [lahiran]       l a h i r a n sp
 lain            [lain]          l a i n sp
 lain            [lain]          l a y i n sp
@@ -4311,8 +4330,8 @@ lebar           [lebar]         l e b a r sp
 lebar-lebar     [lebar-lebar]   l e b a r l e b a r sp
 lebay           [lebay]         l e b a y sp
 lebi            [lebi]          l @ b i sp
-lebih           [lebih]         l @ b i h sp
 lebih           [lebih]         l @ b i sp
+lebih           [lebih]         l @ b i h sp
 lebih           [lebih]         l e b i h sp
 lecet           [lecet]         l e c e t sp
 ledakan         [ledakan]       l @ d a k a n sp
@@ -4328,6 +4347,7 @@ leksikonnya     [leksikonnya]   l e k s i k o n ny a sp
 lelah           [lelah]         l @ l a h sp
 lelawang        [lelawang]      l @ l a w a ng sp
 lelet           [lelet]         l e l e t sp
+leluasa         [leluasa]       l @ l u a s a sp
 lemah           [lemah]         l @ m a h sp
 lemak           [lemak]         l @ m a k sp
 lemarano        [lemarano]      l @ m a r a n o sp
@@ -4350,6 +4370,7 @@ lepaskan        [lepaskan]      l @ p a s k a n sp
 lepasnya        [lepasnya]      l @ p a s ny a sp
 leste           [leste]         l e s t e sp
 letak           [letak]         l @ t a k sp
+letakkan        [letakkan]      l @ t a k k a n sp
 letaknya        [letaknya]      l @ t a k ny a sp
 letusan         [letusan]       l @ t u s a n sp
 level           [level]         l e f @ l sp
@@ -4409,8 +4430,8 @@ logika          [logika]        l o g i k a sp
 logistik        [logistik]      l o g i s t i k sp
 logo            [logo]          l o g o sp
 logonya         [logonya]       l o g o ny a sp
-loh             [loh]           l o h sp
 loh             [loh]           l o sp
+loh             [loh]           l o h sp
 lokal           [lokal]         l o k a l sp
 lokasi          [lokasi]        l o k a s i sp
 lokasinya       [lokasinya]     l o k a s i ny a sp
@@ -4442,9 +4463,11 @@ luar            [luar]          l u a r sp
 luar            [luar]          l u w a r sp
 luarnya         [luarnya]       l u a r ny a sp
 luas            [luas]          l u a s sp
+lubangnya       [lubangnya]     l u b a ng ny a sp
 lubuk           [lubuk]         l u b u k sp
 lucu            [lucu]          l u c u sp
 lucunya         [lucunya]       l u c u ny a sp
+ludah           [ludah]         l u d a h sp
 luka            [luka]          l u k a sp
 luka-luka       [luka-luka]     l u k a l u k a sp
 lukanya         [lukanya]       l u k a ny a sp
@@ -4473,6 +4496,7 @@ maag            [maag]          m a h sp
 maap            [maap]          m a a p sp
 maba            [maba]          m a b a sp
 macam           [macam]         m a c a m sp
+macam-macam     [macam-macam]   m a c a m m a c a m sp
 macamnya        [macamnya]      m a c a m ny a sp
 macan           [macan]         m a c a n sp
 macbook         [macbook]       m e k b u k sp
@@ -4609,8 +4633,8 @@ maruf           [maruf]         m a r u f sp
 marvel          [marvel]        m a r f e l sp
 mas             [mas]           m a s sp
 masa            [masa]          m a s a sp
-masak           [masak]         m a s a k sp
 masak           [masak]         m a s a sp
+masak           [masak]         m a s a k sp
 masakan         [masakan]       m a s a k a n sp
 masako          [masako]        m a s a k o sp
 masala          [masala]        m a s a l a sp
@@ -4630,8 +4654,8 @@ massa           [massa]         m a s a sp
 massa           [massa]         m a s s a sp
 master          [master]        m a s t @ r sp
 mastiin         [mastiin]       m a s t i i n sp
-masuk           [masuk]         m a s u k sp
 masuk           [masuk]         m a s u sp
+masuk           [masuk]         m a s u k sp
 masukan         [masukan]       m a s u k a n sp
 masukannya      [masukannya]    m a s u k a n ny a sp
 masukin         [masukin]       m a s u k i n sp
@@ -4645,8 +4669,8 @@ matah           [matah]         m a t a h sp
 matahari        [matahari]      m a t a h a r i sp
 matanya         [matanya]       m a t a ny a sp
 matematik       [matematik]     m a t e m a t i k sp
-matematika      [matematika]    m a t @ m a t i k a sp
 matematika      [matematika]    m a t @ m a t i k sp
+matematika      [matematika]    m a t @ m a t i k a sp
 matematika      [matematika]    m a t e m a t i k a sp
 materi          [materi]        m a t @ r i sp
 materi          [materi]        m a t e r i sp
@@ -4673,12 +4697,11 @@ mayan           [mayan]         m a y a n sp
 mayoritas       [mayoritas]     m a y o r i t a s sp
 mb              [mb]            e m b e sp
 mba             [mba]           m b a sp
-mbak            [mbak]          m b a k sp
 mbak            [mbak]          m b a sp
+mbak            [mbak]          m b a k sp
 mbak-nya        [mbak-nya]      @ m b a ny a sp
 mbd             [mbd]           e m b e d e sp
 mcd             [mcd]           m e k d i sp
-me\302\255ngum\302\255pulkan [me\302\255ngum\302\255pulkan] m @ ng u m p u l k a n sp
 measures        [measures]      m e s u r sp
 medan           [medan]         m e d a n sp
 media           [media]         m @ d i a sp
@@ -4716,6 +4739,7 @@ melatih         [melatih]       m @ l a t i h sp
 melayani        [melayani]      m @ l a y a n i sp
 melayat         [melayat]       m @ l a y a t sp
 melebihi        [melebihi]      m @ l @ b i h i sp
+meledak         [meledak]       m @ l @ d a k sp
 melegakan       [melegakan]     m @ l @ g a k a n sp
 melek           [melek]         m @ l e k sp
 melekat         [melekat]       m @ l @ k a t sp
@@ -4729,6 +4753,7 @@ melibatkan      [melibatkan]    m @ l i b a t k a n sp
 melihat         [melihat]       m @ l i a t sp
 melihat         [melihat]       m @ l i h a t sp
 melihat         [melihat]       m @ l i y a t sp
+melihatnya      [melihatnya]    m @ l i h a t ny a sp
 melingkupi      [melingkupi]    m @ l i ng k u p i sp
 melintas        [melintas]      m @ l i n t a s sp
 meliputi        [meliputi]      m @ l i p u t i sp
@@ -4784,6 +4809,7 @@ membaca         [membaca]       m @ m b a c a sp
 membagi         [membagi]       m @ m b a g i sp
 membagikan      [membagikan]    m @ m b a g i k a n sp
 membahas        [membahas]      m @ m b a h a s sp
+membahayakan    [membahayakan]  m @ m b a h a y a k a n sp
 membaik         [membaik]       m @ m b a i k sp
 membalas        [membalas]      m @ m b a l a s sp
 membandingkan   [membandingkan] m @ m b a n d i ng k a n sp
@@ -4959,6 +4985,7 @@ mendatangi      [mendatangi]    m @ n d a t a ng i sp
 mendefinisikan  [mendefinisikan] m @ n d e f i n i s i k a n sp
 mendekati       [mendekati]     m @ n d @ k a t i sp
 mendekati       [mendekati]     m @ n d e k a t i sp
+mendelegasikan  [mendelegasikan] m @ n d e l e g a s i k a n sp
 mendemonstrasikan [mendemonstrasikan] m @ n d e m o n s t r a s i k a n sp
 mendengar       [mendengar]     m @ n d @ ng a r sp
 mendengar       [mendengar]     m @ n d e n g a r sp
@@ -4968,6 +4995,7 @@ menderiye       [menderiye]     m @ n d @ r i ye sp
 mendesain       [mendesain]     m @ n d e s a i n sp
 mendesain       [mendesain]     m @ n d i s ay n sp
 mendesak        [mendesak]      m @ n d @ s a k sp
+mendetail       [mendetail]     m @ n d @ t a i l sp
 mendeteksi      [mendeteksi]    m @ n d @ t @ k s i sp
 mendeteksi      [mendeteksi]    m @ n d e t e k s i sp
 mendevelop      [mendevelop]    m @ n d e f e l o p sp
@@ -5019,6 +5047,8 @@ mengabarkan     [mengabarkan]   m @ ng a b a r k a n sp
 mengadakan      [mengadakan]    m @ ng a d a k a n sp
 mengadaptasi    [mengadaptasi]  m @ ng a d a p t a s i sp
 mengadopsi      [mengadopsi]    m @ ng a d o p s i sp
+mengajak        [mengajak]      m @ ng a j a sp
+mengajak        [mengajak]      m @ ng a j a k sp
 mengajar        [mengajar]      m @ ng a j a r sp
 mengajarkan     [mengajarkan]   m @ ng a j a r k a n sp
 mengajukan      [mengajukan]    m @ ng a j u k a n sp
@@ -5072,8 +5102,8 @@ mengeluarkan    [mengeluarkan]  m @ ng @ l u a r k a n sp
 mengemasnya     [mengemasnya]   m @ ng @ m a s ny a sp
 mengembalikannya [mengembalikannya] m @ ng @ m b a l i k a n ny a sp
 mengembangkan   [mengembangkan] m @ n g @ m b a n g k a n sp
-mengembangkan   [mengembangkan] m @ ng @ m b a ng k a n sp
 mengembangkan   [mengembangkan] m @ ng @ m b a ng sp
+mengembangkan   [mengembangkan] m @ ng @ m b a ng k a n sp
 mengembangkan   [mengembangkan] m @ ng e m b a ng k a n sp
 mengemudi       [mengemudi]     m @ ng @ m u d i sp
 mengenai        [mengenai]      m @ ng @ n a i sp
@@ -5106,6 +5136,7 @@ menggantikan    [menggantikan]  m @ ng g a n t i k a n sp
 menggelar       [menggelar]     m @ ng g @ l a r sp
 menggeliat      [menggeliat]    m e ng g e l i a t sp
 menggelinding   [menggelinding] m @ ng g @ l i n d i ng sp
+menggosok       [menggosok]     m @ ng g o s o k sp
 menggumpal      [menggumpal]    m @ ng g u m p a l sp
 menggunakan     [menggunakan]   m @ ng g u n a k a n sp
 menggunakan     [menggunakan]   m e ng g u n a k a n sp
@@ -5122,6 +5153,7 @@ menghancurkan   [menghancurkan] m @ ng h a ny c u r k a n sp
 menghanguskan   [menghanguskan] m @ ng h a ng u s k a n sp
 menghantam      [menghantam]    m @ ng h a n t a m sp
 menghasilkan    [menghasilkan]  m @ ng h a s i l k a n sp
+menghidupi      [menghidupi]    m @ ng h i d u p i sp
 menghilang      [menghilang]    m @ n g h i l a n g sp
 menghilang      [menghilang]    m @ ng h i l a ng sp
 menghilangkan   [menghilangkan] m @ ng h i l a ng k a n sp
@@ -5334,6 +5366,7 @@ mercurial       [mercurial]     m e r k u r i a l sp
 merebah         [merebah]       m @ r @ b a h sp
 merebahkan      [merebahkan]    m @ r @ b a h k a n sp
 merebut         [merebut]       m @ r @ b u t sp
+meredakan       [meredakan]     m @ r @ d a k a n sp
 merek           [merek]         m e r e k sp
 mereka          [mereka]        m @ r @ k a sp
 mereka          [mereka]        m @ r e k a sp
@@ -5356,8 +5389,8 @@ meriah          [meriah]        m @ r i y a h sp
 meriang         [meriang]       m @ r i a ng sp
 meriangnya      [meriangnya]    m @ r i a ng ny a sp
 meringankan     [meringankan]   m @ r i ng a n k a n sp
-merokok         [merokok]       m @ r o k o k sp
 merokok         [merokok]       m @ r o k o sp
+merokok         [merokok]       m @ r o k o k sp
 mertua          [mertua]        m @ r t u a sp
 merubah         [merubah]       m @ r u b a h sp
 merujuk         [merujuk]       m @ r u j u k sp
@@ -5379,6 +5412,7 @@ metro           [metro]         m e t r o sp
 mewah           [mewah]         m e w a h sp
 mewakili        [mewakili]      m @ w a k i l i sp
 mewek           [mewek]         m @ w @ k sp
+me\302\255ngum\302\255pulkan [me\302\255ngum\302\255pulkan] m @ ng u m p u l k a n sp
 mi              [mi]            m i sp
 microsoft       [microsoft]     m i k r o s o f t sp
 mie             [mie]           @ m i sp
@@ -5533,8 +5567,8 @@ nadia           [nadia]         n a d i a sp
 naek            [naek]          n a e k sp
 nafas           [nafas]         n a f a s sp
 nafsu           [nafsu]         n a f s u sp
-nah             [nah]           n a h sp
 nah             [nah]           n a sp
+nah             [nah]           n a h sp
 nahasnya        [nahasnya]      n a h a s ny a sp
 nahrudin        [nahrudin]      n a h r u d i n sp
 naik            [naik]          n a i k sp
@@ -5559,16 +5593,16 @@ nanda           [nanda]         n a n d a sp
 nangis          [nangis]        n a ng i s sp
 nannys          [nannys]        n e n i s sp
 nano            [nano]          n a n o sp
-nanti           [nanti]         n a n t i ny a sp
 nanti           [nanti]         n a n t i sp
+nanti           [nanti]         n a n t i ny a sp
 nantikan        [nantikan]      n a n t i k a n sp
 nantinya        [nantinya]      n a n t i ny a sp
 nanya           [nanya]         n a ny a sp
 nanya-nanya     [nanya-nanya]   n a ny a n a ny a sp
 nanya-nanyain   [nanya-nanyain] n a ny a n a ny a i n sp
 napa            [napa]          n a p a sp
-napak           [napak]         n a p a k sp
 napak           [napak]         n a p a sp
+napak           [napak]         n a p a k sp
 napsu           [napsu]         n a p s u sp
 narasi          [narasi]        n a r a s i sp
 narcos          [narcos]        n a r k o s sp
@@ -5709,10 +5743,10 @@ ngetemnya       [ngetemnya]     ng @ t e m ny a sp
 ngetroll        [ngetroll]      ng @ t r o l sp
 ngga            [ngga]          ng g a sp
 nggak           [nggak]         e ng g a sp
-nggak           [nggak]         g a k sp
 nggak           [nggak]         g a sp
-nggak           [nggak]         ng g a k sp
+nggak           [nggak]         g a k sp
 nggak           [nggak]         ng g a sp
+nggak           [nggak]         ng g a k sp
 ngide           [ngide]         ng i d e sp
 ngikutin        [ngikutin]      ng i k u t i n sp
 ngilang         [ngilang]       ng i l a ng sp
@@ -5735,6 +5769,8 @@ ngomonginnya    [ngomonginnya]  ng o m o ng i n ny a sp
 ngomongnya      [ngomongnya]    ng o m o ng ny a sp
 ngondak         [ngondak]       ng o n d a k sp
 ngontak         [ngontak]       ng o n t a k sp
+ngopi           [ngopi]         ng o p i sp
+ngopi           [ngopi]         ng u p i sp
 ngopi-ngopi     [ngopi-ngopi]   ng o p i ng o p i sp
 ngumpul         [ngumpul]       ng u m p u l sp
 ngumpul-ngumpul [ngumpul-ngumpul] ng u m p u l ng u m p u l sp
@@ -5746,8 +5782,8 @@ ngurus          [ngurus]        ng u r u s sp
 ngurusin        [ngurusin]      ng u r u s i n sp
 ni              [ni]            n i sp
 nicho           [nicho]         n i k o sp
-nih             [nih]           n i h sp
 nih             [nih]           n i sp
+nih             [nih]           n i h sp
 nik             [nik]           n i k sp
 niko            [niko]          n i k o sp
 nilai           [nilai]         n i l a i sp
@@ -5830,6 +5866,7 @@ nyaranin        [nyaranin]      ny a r a n i n sp
 nyari           [nyari]         ny a r i sp
 nyata           [nyata]         ny a t a sp
 nyatanya        [nyatanya]      ny a t a ny a sp
+nyawanya        [nyawanya]      ny a w a ny a sp
 nyebelin        [nyebelin]      ny @ b @ l i n sp
 nyediain        [nyediain]      ny @ d i a i n sp
 nyelesaiin      [nyelesaiin]    ny @ l @ s a y i n sp
@@ -5874,13 +5911,13 @@ off             [off]           o f sp
 office          [office]        o f f i s sp
 official        [official]      o f f i sy e l sp
 oh              [oh]            e u h sp
-oh              [oh]            o h sp
 oh              [oh]            o sp
+oh              [oh]            o h sp
 oiya            [oiya]          o i y a sp
 oiya            [oiya]          o w i y a sp
 ojek            [ojek]          o j e k sp
-ok              [ok]            o k e sp
 ok              [ok]            o k sp
+ok              [ok]            o k e sp
 okay            [okay]          o k a y sp
 oke             [oke]           o k @ sp
 oke             [oke]           o k e sp
@@ -5998,8 +6035,8 @@ paice           [paice]         p e i s sp
 pait            [pait]          p a i t sp
 pajajaran       [pajajaran]     p a j a j a r a n sp
 pajak           [pajak]         p a j a k sp
-pak             [pak]           p a k sp
 pak             [pak]           p a sp
+pak             [pak]           p a k sp
 pakai           [pakai]         p a k a i sp
 pakai           [pakai]         p a k a y sp
 pakai           [pakai]         p a k ay sp
@@ -6011,6 +6048,7 @@ paket           [paket]         p a k @ t sp
 paket           [paket]         p a k e t sp
 paketnya        [paketnya]      p a k e t ny a sp
 pakmin          [pakmin]        p a k m i n sp
+paksa-paksa     [paksa-paksa]   p a k s a p a k s a sp
 paksakan        [paksakan]      p a k s a k a n sp
 palang          [palang]        p a l a ng sp
 palembang       [palembang]     p a l e m b a ng sp
@@ -6074,8 +6112,8 @@ parasetamol     [parasetamol]   p a r a s e t a m o l sp
 parkir          [parkir]        p a r k i r sp
 parkiran        [parkiran]      p a r k i r a n sp
 parkirnya       [parkirnya]     p a r k i r ny a sp
-part            [part]          p a r @ t sp
 part            [part]          p a r sp
+part            [part]          p a r @ t sp
 part            [part]          p a r t sp
 partai          [partai]        p a r t a i sp
 partai          [partai]        p a r t a y sp
@@ -6098,6 +6136,7 @@ pasien          [pasien]        p a s i y e n sp
 pasifik         [pasifik]       p a s i f i k sp
 pasir           [pasir]         p a s i r sp
 paskal          [paskal]        p a s k a l sp
+pasokan         [pasokan]       p a s o k a n sp
 paspor          [paspor]        p a s p o r sp
 paspornya       [paspornya]     p a s p o r ny a sp
 pasta           [pasta]         p a s t a sp
@@ -6106,6 +6145,7 @@ pastinya        [pastinya]      p a s t i ny a sp
 pasukannya      [pasukannya]    p a s u k a n ny a sp
 pat             [pat]           p a t sp
 pat             [pat]           p e a t e sp
+patah           [patah]         p a t a h sp
 pati            [pati]          p a t i sp
 patut           [patut]         p a t u t sp
 pause           [pause]         p a u s sp
@@ -6278,6 +6318,7 @@ pendapatannya   [pendapatannya] p @ n d a p a t a n ny a sp
 pendapatmu      [pendapatmu]    p @ n d a p a t m u sp
 pendapatnya     [pendapatnya]   p @ n d a p a t ny a sp
 pendarahan      [pendarahan]    p @ n d a r a h a n sp
+pendarahannya   [pendarahannya] p @ n d a r a h a n ny a sp
 pendek          [pendek]        p @ n d e k sp
 pendek          [pendek]        p e n d e k sp
 pendek-pendek   [pendek-pendek] p e n d e k p e n d e k sp
@@ -6385,6 +6426,7 @@ penolongmu      [penolongmu]    p e n o l o ng m u sp
 penonton        [penonton]      p @ n o n t o n sp
 penting         [penting]       p @ n t i ng sp
 penting-penting [penting-penting] p @ n t i ng p @ n t i ng sp
+pentingnya      [pentingnya]    p @ n t i ng ny a sp
 penuh           [penuh]         p @ n u h sp
 penuhi          [penuhi]        p @ n u h i sp
 penukaran       [penukaran]     p @ n u k a r a n sp
@@ -6654,8 +6696,8 @@ pikirannya      [pikirannya]    p i k i r a n ny a sp
 pikirkan        [pikirkan]      p i k i r k a n sp
 pil-pil         [pil-pil]       p i l p i l sp
 pilar           [pilar]         p i l a r sp
-pilek           [pilek]         p i l @ k sp
 pilek           [pilek]         p i l @ sp
+pilek           [pilek]         p i l @ k sp
 pileknya        [pileknya]      p i l @ k ny a sp
 pilih           [pilih]         p i l i h sp
 pilihan         [pilihan]       p i l i h a n sp
@@ -6882,6 +6924,7 @@ public          [public]        p a b l i k sp
 publik          [publik]        p u b l i k sp
 publikasi       [publikasi]     p u b l i k a s i sp
 publikasinya    [publikasinya]  p u b l i k a s i ny a sp
+puji            [puji]          p u j i sp
 pukul           [pukul]         p u k u l sp
 pula            [pula]          p u l a sp
 pulang          [pulang]        p u l a ng sp
@@ -6890,8 +6933,8 @@ pulau           [pulau]         p u l a u sp
 pulau           [pulau]         p u l aw sp
 pulen           [pulen]         p u l @ n sp
 pulih           [pulih]         p u l i h sp
-puluh           [puluh]         p u l u h sp
 puluh           [puluh]         p u l u sp
+puluh           [puluh]         p u l u h sp
 puluhan         [puluhan]       p u l u h a n sp
 puma            [puma]          p u m a sp
 pun             [pun]           p u n sp
@@ -6907,6 +6950,7 @@ punyaku         [punyaku]       p u ny a k u sp
 pura            [pura]          p u r a sp
 pusat           [pusat]         p u s a t sp
 pusing          [pusing]        p u s i ng sp
+pusingnya       [pusingnya]     p u s i ng ny a sp
 puspendik       [puspendik]     p u s p e n d i k sp
 pustaka         [pustaka]       p u s t a k a sp
 putih           [putih]         p u t i h sp
@@ -7051,6 +7095,8 @@ repot           [repot]         r e p o t sp
 repot-repot     [repot-repot]   r e p o t r e p o t sp
 representasi    [representasi]  r @ p r @ s @ n t a s i sp
 republik        [republik]      r e p u b l i k sp
+reputasi        [reputasi]      r e p u t a s i sp
+reputasimu      [reputasimu]    r e p u t a s i m u sp
 requirement     [requirement]   r i k u w a i r m e n sp
 requirementnya  [requirementnya] r e k u w a i r m e n ny a sp
 research        [research]      r i s @ r ch sp
@@ -7395,6 +7441,7 @@ sederhana       [sederhana]     s @ d e r h a n a sp
 sederhananya    [sederhananya]  s @ d @ r h a n a ny a sp
 sedia           [sedia]         s @ d i a sp
 sediain         [sediain]       s @ d i ay n sp
+sediakala       [sediakala]     s @ d i y a k a l a sp
 sediakan        [sediakan]      s @ d i a k a n sp
 sedih           [sedih]         s @ d i h sp
 sedikit         [sedikit]       s @ d i k i t sp
@@ -7481,6 +7528,7 @@ sekitaran       [sekitaran]     s @ k i t a r a n sp
 sekitarnya      [sekitarnya]    s @ k i t a r ny a sp
 sekolah         [sekolah]       s @ k o l a h sp
 sekolah         [sekolah]       s e k o l a h sp
+sekolahnya      [sekolahnya]    s @ k o l a h ny a sp
 sekon           [sekon]         s @ k o n sp
 sekoyong-koyong [sekoyong-koyong] s @ k o y o ng k o y o ng sp
 sekre           [sekre]         s e k r e sp
@@ -7748,8 +7796,8 @@ sifat           [sifat]         s i f a t sp
 sifatnya        [sifatnya]      s i f a t ny a sp
 signature       [signature]     s i g n a t u r e sp
 signifikan      [signifikan]    s i g n i f i k a n sp
-sih             [sih]           s i h sp
 sih             [sih]           s i sp
+sih             [sih]           s i h sp
 sikaping        [sikaping]      s i k a p i ng sp
 sikat           [sikat]         s i k a t sp
 sikit           [sikit]         s i k i t sp
@@ -7817,6 +7865,7 @@ situasi         [situasi]       s i t u a s i sp
 situasi         [situasi]       s i t u w a s i sp
 situasional     [situasional]   s i t u a s i o n a l sp
 situs           [situs]         s i t u s sp
+siuman          [siuman]        s i y u m a n sp
 skala           [skala]         s @ k a l a sp
 skala           [skala]         s k a l a sp
 skateboard      [skateboard]    s k e t b o rd sp
@@ -7864,6 +7913,7 @@ solution        [solution]      s o l u sy e n sp
 solving         [solving]       s o l f i ng sp
 somarende       [somarende]     s o m a r e n d e sp
 songong         [songong]       s o ng o ng sp
+soni            [soni]          s o n i sp
 sop             [sop]           s o p sp
 sopir           [sopir]         s o p i r sp
 sopnya          [sopnya]        s o p ny a sp
@@ -7874,8 +7924,8 @@ sorot           [sorot]         s o r o t sp
 sorry           [sorry]         s o r i sp
 sosial          [sosial]        s o s i a l sp
 sosmed          [sosmed]        s o s m e d sp
-sosok           [sosok]         s o s o k sp
 sosok           [sosok]         s o s o sp
+sosok           [sosok]         s o s o k sp
 spam            [spam]          s p a m sp
 spasi           [spasi]         s p a s i sp
 spasial         [spasial]       s p a s i a l sp
@@ -7900,6 +7950,7 @@ stabil          [stabil]        s t a b i l sp
 stabilitas      [stabilitas]    st a b i l i t a s sp
 stadion         [stadion]       s t a d i o n sp
 stagnan         [stagnan]       s t a g n a n sp
+stamina         [stamina]       s t a m i n a sp
 stand           [stand]         s t a n d sp
 stand           [stand]         st e n sp
 standar         [standar]       s t a n d a r sp
@@ -8014,11 +8065,12 @@ supirnya        [supirnya]      s u p i r ny a sp
 suplai          [suplai]        s u p l ay sp
 surabaya        [surabaya]      s u r a b a y a sp
 surat           [surat]         s u r a t sp
+suratnya        [suratnya]      s u r a t ny a sp
 surel           [surel]         s u r e l sp
 surhof          [surhof]        s u r h o f sp
 surplus         [surplus]       s u r p l u s sp
-suruh           [suruh]         s u r u h sp
 suruh           [suruh]         s u r u sp
+suruh           [suruh]         s u r u h sp
 survei          [survei]        s u r f ey sp
 survei          [survei]        s u r v @ i sp
 survei          [survei]        s u r v e i sp
@@ -8047,9 +8099,11 @@ syarat          [syarat]        sy a r a t sp
 syarif          [syarif]        sy a r i f sp
 sync            [sync]          s i ng sp
 syndrome        [syndrome]      s i n d r o m sp
+syukur          [syukur]        sy u k u r sp
 syukurlah       [syukurlah]     sy u k u r l a h sp
-t               [t]             t e sp
+syukurnya       [syukurnya]     sy u k u r ny a sp
 t               [t]             t sp
+t               [t]             t e sp
 ta              [ta]            t e a sp
 tab             [tab]           t a b sp
 tab             [tab]           t e p sp
@@ -8080,6 +8134,7 @@ tak             [tak]           t a k sp
 take            [take]          t e k sp
 taksi           [taksi]         t a k s i sp
 takut           [takut]         t a k u t sp
+takutkan        [takutkan]      t a k u t k a n sp
 takutnya        [takutnya]      t a k u t ny a sp
 talang          [talang]        t a l a ng sp
 talenta         [talenta]       t a l e n t a sp
@@ -8189,9 +8244,10 @@ temani          [temani]        t @ m a n i sp
 temanin         [temanin]       t @ m a n i n sp
 temannya        [temannya]      t @ m a n ny a sp
 temanya         [temanya]       t e m a ny a sp
+tembak          [tembak]        t e m b a k sp
 tembakan        [tembakan]      t e m b a k a n sp
-tembok          [tembok]        t e m b o k sp
 tembok          [tembok]        t e m b o sp
+tembok          [tembok]        t e m b o k sp
 tembus          [tembus]        t @ m b u s sp
 temen           [temen]         t @ m @ n sp
 temen-temen     [temen-temen]   t @ m @ n t @ m @ n sp
@@ -8250,6 +8306,7 @@ teraktual       [teraktual]     t @ r a k t u w a l sp
 terancam        [terancam]      t @ r a n c a m sp
 terang          [terang]        t @ r a ng sp
 terangnya       [terangnya]     t @ r a ng ny a sp
+terapi          [terapi]        t e r a p i sp
 terasa          [terasa]        t @ r a s a sp
 teratur         [teratur]       t @ r a t u r sp
 terawan         [terawan]       t e r a w a n sp
@@ -8437,6 +8494,7 @@ tf              [tf]            t i f i sp
 thanos          [thanos]        t a n o s sp
 the             [the]           d e sp
 the             [the]           d i sp
+thermometernya  [thermometernya] t e r m o m e t @ r ny a sp
 thor            [thor]          t o r sp
 thresholding    [thresholding]  t r e s h o l d i ng sp
 ti              [ti]            t i sp
@@ -8448,8 +8506,8 @@ tiap            [tiap]          t i ya p sp
 tiara           [tiara]         t i y a r a sp
 tiba            [tiba]          t i b a sp
 tiba-tiba       [tiba-tiba]     t i b a t i b a sp
-tidak           [tidak]         t i d a k sp
 tidak           [tidak]         t i d a sp
+tidak           [tidak]         t i d a k sp
 tidur           [tidur]         t i d u r sp
 tiduran         [tiduran]       t i d u r a n sp
 tidurnya        [tidurnya]      t i d u r ny a sp
@@ -8538,6 +8596,7 @@ transjakarta    [transjakarta]  t @ r a n s j a k a r t a sp
 transkrip       [transkrip]     t r a n s k r i p sp
 transportasi    [transportasi]  t r a n s p o r t a s i sp
 transportasinya [transportasinya] t r a n s p o r t a s i ny a sp
+trauma          [trauma]        t r a u m a sp
 traumanya       [traumanya]     t e r aw ma ny a sp
 travel          [travel]        t r e v @ l sp
 traveloka       [traveloka]     t e r a v e l o k a sp
@@ -8571,6 +8630,7 @@ tugas           [tugas]         t u g a s sp
 tugas-tugas     [tugas-tugas]   t u g a s t u g a s sp
 tugasnya        [tugasnya]      t u g a s ny a sp
 tuh             [tuh]           t u h sp
+tuhan           [tuhan]         t u h a n sp
 tujuan          [tujuan]        t u j u a n sp
 tujuannya       [tujuannya]     t u j u a n ny a sp
 tujuannya       [tujuannya]     t u j u w a n ny a sp
@@ -8592,6 +8652,7 @@ tumbang         [tumbang]       t u m b a ng sp
 tumben          [tumben]        t u m b e n sp
 tumpeng         [tumpeng]       t u m p @ ng sp
 tunai           [tunai]         t u n a y sp
+tunda           [tunda]         t u n d a sp
 tunggal         [tunggal]       t u ng g a l sp
 tunggu          [tunggu]        t u n g g u sp
 tunggu          [tunggu]        t u ng g u sp
@@ -8600,6 +8661,7 @@ tunggunya       [tunggunya]     t u ng g u ny a sp
 tunjuk          [tunjuk]        t u n j u k sp
 tunjukan        [tunjukan]      t u n j u k a n sp
 tunjukin        [tunjukin]      t u n j u k i n sp
+tunjukkan       [tunjukkan]     t u n j u k k a n sp
 tuntutan        [tuntutan]      t u n t u t a n sp
 turis           [turis]         t u r i s sp
 turnamen        [turnamen]      t u r n a m e n sp
@@ -8679,8 +8741,8 @@ universitas     [universitas]   u n i v e r s i t a s sp
 unp             [unp]           u e n p e sp
 unpad           [unpad]         u n p a d sp
 unsur           [unsur]         u n s u r sp
-untuk           [untuk]         u n t u k sp
 untuk           [untuk]         u n t u sp
+untuk           [untuk]         u n t u k sp
 untuknya        [untuknya]      u n t u k ny a sp
 untung          [untung]        u n t u n g sp
 untung          [untung]        u n t u ng sp
@@ -8696,8 +8758,8 @@ update          [update]        ap d @ et sp
 upload          [upload]        u p l o a d sp
 upnormal        [upnormal]      a p n o r m a l sp
 urang           [urang]         u r a ng sp
-urine           [urine]         u r i n e sp
 urine           [urine]         u r i n sp
+urine           [urine]         u r i n e sp
 urpa            [urpa]          u r p a sp
 urus            [urus]          u r u s sp
 urusan          [urusan]        u r u s a n sp
@@ -8791,6 +8853,7 @@ wajib           [wajib]         w a j i b sp
 wakil           [wakil]         w a k i l sp
 waktu           [waktu]         w a k t u sp
 waktu           [waktu]         w a t u sp
+waktu-waktu     [waktu-waktu]   w a k t u w a k t u sp
 waktunya        [waktunya]      w a k t u ny a sp
 walau           [walau]         w a l aw sp
 walaupun        [walaupun]      w a l a u p u n sp
@@ -8820,6 +8883,7 @@ watt            [watt]          w a t sp
 waw             [waw]           w a w sp
 waw             [waw]           w aw sp
 wawancara       [wawancara]     w a w a n c a r a sp
+wawasan         [wawasan]       w a w a s a n sp
 way             [way]           w @ y sp
 web             [web]           w @ b sp
 web             [web]           w e b sp
@@ -8874,14 +8938,14 @@ wortelnya       [wortelnya]     w o r t @ l ny a sp
 wow             [wow]           w o w sp
 x               [x]             e k s sp
 y               [y]             y e sp
-ya              [ya]            y a h sp
 ya              [ya]            y a sp
+ya              [ya]            y a h sp
 yaelah          [yaelah]        y a @ l a h sp
 yah             [yah]           y a h sp
 yaitu           [yaitu]         y a i t u sp
 yaitu           [yaitu]         y ay t u sp
-yak             [yak]           y a k sp
 yak             [yak]           y a sp
+yak             [yak]           y a k sp
 yakin           [yakin]         y a k i n sp
 yakni           [yakni]         y a k n i sp
 yaml            [yaml]          y e a e m e l sp
@@ -8913,8 +8977,8 @@ you             [you]           y u sp
 yu              [yu]            y u sp
 yudhoyono       [yudhoyono]     y u d o y o n o sp
 yuds            [yuds]          y u d s sp
-yuk             [yuk]           y u k sp
 yuk             [yuk]           y u sp
+yuk             [yuk]           y u k sp
 yutefa          [yutefa]        y u t e f a sp
 yuwono          [yuwono]        y u w o n o sp
 za              [za]            z a sp
