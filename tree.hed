@@ -516,7 +516,6 @@ TB 350 "ST_sil_4_" {("sil","*-sil+*","sil+*","*-sil").state[4]}
 
 TR 1
 
-AU "./fulllist" 
 CO "./tiedlist" 
 
 ST "./trees" 
