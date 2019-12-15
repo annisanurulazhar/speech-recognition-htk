@@ -7,11 +7,12 @@ TRIGRAM: method Katz, cutoff 1
   coef[7]: 0.000000 0.424812 0.572675 0.660350 0.749787 0.813582 0.916994
 
 \data\
-ngram 1=10791
+ngram 1=10790
 ngram 2=12658
 ngram 3=9545
 
 \1-grams:
++3.0000	!!UNK
 +7118.0000	</s>	+0.0000
 +2.0000	<a>
 +1.0000	<ah>
@@ -934,7 +935,6 @@ ngram 3=9545
 +1.0000	bepergian
 +1.0000	ber
 +1.0000	ber-ac
-+1.0000	ber\302\255konsentrasi
 +13.0000	beracun	+6.0000
 +30.0000	berada	+2.0000
 +1.0000	beradaptasi
@@ -1300,6 +1300,7 @@ ngram 3=9545
 +34.0000	berwarna	+9.0000
 +1.0000	berwibawa
 +1.0000	berwujud
++1.0000	ber­konsentrasi
 +103.0000	besar	+46.0000
 +1.0000	besaran
 +1.0000	besaran-besaran
@@ -5571,7 +5572,6 @@ ngram 3=9545
 +1.0000	mbd
 +1.0000	mcd
 +1.0000	md
-+1.0000	me\302\255ngum\302\255pulkan
 +1.0000	measures
 +1.0000	medan
 +1.0000	media
@@ -6559,6 +6559,7 @@ ngram 3=9545
 +1.0000	mewakili
 +1.0000	mewaspadai
 +1.0000	mewek
++1.0000	me­ngum­pulkan
 +6.0000	mg	+2.0000
 +1.0000	mi
 +1.0000	miconazole
@@ -9443,7 +9444,6 @@ ngram 3=9545
 +1.0000	siuman
 +5.0000	siung
 +1.0000	sjogren
-+1.0000	sjã¶gren
 +2.0000	skala	+0.0000
 +1.0000	skarlatina
 +1.0000	skateboard
@@ -10802,7 +10802,6 @@ ngram 3=9545
 +1.0000	zi
 +3.0000	zinc
 +1.0000	zombieland
-+2.0000	zoster
 
 \2-grams:
 +7118.0000	</s> <s>	+629.0000
@@ -15710,7 +15709,7 @@ ngram 3=9545
 +2.0000	hemoglobin </s>	+0.0000
 +2.0000	hendak mengkonfirmasi	+0.0000
 +4.0000	heran jika
-+2.0000	herpes zoster
++2.0000	herpes !!UNK
 +2.0000	herpetiform </s>	+0.0000
 +2.0000	hewan dan
 +2.0000	hewan seperti
