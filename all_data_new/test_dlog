@@ -1,0 +1,45 @@
+WARNING: no script file lexicon/test_lexicon.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+test_lexicon     11032        523      15388        800
+   test_dict       523        523        800        800
+
+523 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. a     :   924
+  2. h     :   138
+  3. sp    :   798
+  4. p     :   149
+  5. r     :   241
+  6. t     :   251
+  7. d     :   106
+  8. i     :   343
+  9. s     :   250
+ 10. @     :   240
+ 11. b     :   170
+ 12. m     :   207
+ 13. e     :   225
+ 14. u     :   251
+ 15. y     :    50
+ 16. g     :    78
+ 17. k     :   250
+ 18. l     :   172
+ 19. o     :    71
+ 20. n     :   235
+ 21. ng    :   106
+ 22. sil   :     2
+ 23. j     :    40
+ 24. kh    :     3
+ 25. ny    :   100
+ 26. f     :     9
+ 27. ay    :    19
+ 28. w     :    28
+ 29. aw    :     9
+ 30. c     :    22
+ 31. sy    :     2
+
+Dictionary test_dict created

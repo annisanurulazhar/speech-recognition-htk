@@ -1,0 +1,800 @@
+<ah>            [<ah>]          a h sp
+<ap>            [<ap>]          a p sp
+<arat>          [<arat>]        a r a t sp
+<diseb>         [<diseb>]       d i s @ b sp
+<ehem>          [<ehem>]        @ h @ m sp
+<ehem>          [<ehem>]        @ h m sp
+<ehem>          [<ehem>]        e h e m sp
+<em>            [<em>]          @ m sp
+<eu>            [<eu>]          @ sp
+<eu>            [<eu>]          @ u sp
+<eu>            [<eu>]          e u sp
+<euh>           [<euh>]         @ h sp
+<euh>           [<euh>]         @ u h sp
+<euh>           [<euh>]         e u h sp
+<eum>           [<eum>]         @ m sp
+<eum>           [<eum>]         @ u m sp
+<eum>           [<eum>]         e u m sp
+<ey>            [<ey>]          e y sp
+<gig>           [<gig>]         g i g sp
+<ha>            [<ha>]          h a sp
+<heueuh>        [<heueuh>]      h @ u @ u h sp
+<heueum>        [<heueum>]      h @ u @ u m sp
+<kalo>          [<kalo>]        k a l o sp
+<ke>            [<ke>]          k @ sp
+<ke>            [<ke>]          k e sp
+<kenapa>        [<kenapa>]      k @ n a p a sp
+<kenapa>        [<kenapa>]      k e n a p a sp
+<layar>         [<layar>]       l a y a r sp
+<mata>          [<mata>]        m a t a sp
+<mesih>         [<mesih>]       m @ s i h sp
+<ming>          [<ming>]        m i ng sp
+<o>             [<o>]           o sp
+<oh>            [<oh>]          o h sp
+<ru>            [<ru>]          r u sp
+<se>            [<se>]          s @ sp
+<se>            [<se>]          s e sp
+<set>           [<set>]         s @ t sp
+<set>           [<set>]         s e t sp
+SENT-END        [SENT-END]      sil
+SENT-START      [SENT-START]    sil
+ada             [ada]           a d a sp
+adalah          [adalah]        a d a l a h sp
+aduh            [aduh]          a d u h sp
+agak            [agak]          a g a sp
+agak            [agak]          a g a k sp
+aja             [aja]           a j a sp
+akan            [akan]          a k a n sp
+akhir           [akhir]         a kh i r sp
+akhirnya        [akhirnya]      a kh i r ny a sp
+aktivitas       [aktivitas]     a k t i f i t a s sp
+alatnya         [alatnya]       a l a t ny a sp
+ambil           [ambil]         a m b i l sp
+ambilin         [ambilin]       a m b i l i n sp
+anak-anak       [anak-anak]     a n a k a n a k sp
+andi            [andi]          a n d i sp
+ani             [ani]           a n i sp
+apa             [apa]           a p a sp
+apa-apa         [apa-apa]       a p a a p a sp
+apakah          [apakah]        a p a k a h sp
+apapun          [apapun]        a p a p u n sp
+apapun-lah      [apapun-lah]    a p a p u n l a h sp
+aplikasi        [aplikasi]      a p l i k a s i sp
+assalamualaikum [assalamualaikum] a s a l a m u a l ay k u m sp
+assalamualaikum [assalamualaikum] a s s a l a m u a l a i k u m sp
+assalamualaikum [assalamualaikum] a s s a l a m u a l ay k u m sp
+atas            [atas]          a t a s sp
+atasnya         [atasnya]       a t a s ny a sp
+atau            [atau]          a t a u sp
+atau            [atau]          a t a w sp
+atau            [atau]          a t aw sp
+atau            [atau]          a t o sp
+awalnya         [awalnya]       a w a l ny a sp
+badan           [badan]         b a d a n sp
+bagaimana       [bagaimana]     b a g a i m a n a sp
+bagaimana       [bagaimana]     b a g a y m a n a sp
+bagaimana       [bagaimana]     b a g ay m a n a sp
+bagi            [bagi]          b a g i sp
+bagian          [bagian]        b a g i a n sp
+bagian          [bagian]        b a g i y a n sp
+bagian-bagian   [bagian-bagian] b a g i a n b a g i a n sp
+bagus           [bagus]         b a g u s sp
+baguslah        [baguslah]      b a g u s l a h sp
+bahaya          [bahaya]        b a h a y a sp
+bahaya          [bahaya]        b a h ay a sp
+baik            [baik]          b a i sp
+baik            [baik]          b a i k sp
+baik            [baik]          b a y i k sp
+baik            [baik]          b ay k sp
+baiknya         [baiknya]       b a i k ny a sp
+baiknya         [baiknya]       b ay k ny a sp
+banget          [banget]        b a ng @ t sp
+banget          [banget]        b a ng e t sp
+bantu           [bantu]         b a n t u sp
+banyak          [banyak]        b a ny a sp
+banyak          [banyak]        b a ny a k sp
+bapak           [bapak]         b a p a sp
+bapak           [bapak]         b a p a k sp
+baru            [baru]          b a r u sp
+bawah           [bawah]         b a w a h sp
+bawah           [bawah]         b aw w a h sp
+bawahnya        [bawahnya]      b a w a h ny a sp
+bawahnya        [bawahnya]      b aw w a h ny a sp
+beberapa        [beberapa]      b @ b @ r a p a sp
+beberapa        [beberapa]      b e b e r a p a sp
+begini          [begini]        b @ g i n i sp
+begini          [begini]        b e g i n i sp
+begitu          [begitu]        b @ g i t u sp
+begitu          [begitu]        b e g i t u sp
+bekerja         [bekerja]       b @ k @ r j a sp
+bekerja         [bekerja]       b @ k e r j a sp
+bekerja         [bekerja]       b e k e r j a sp
+belakang        [belakang]      b @ l a k a ng sp
+belakang        [belakang]      b e l a k a ng sp
+belas           [belas]         b @ l a s sp
+belas           [belas]         b e l a s sp
+belum           [belum]         b @ l o m sp
+belum           [belum]         b @ l u m sp
+belum           [belum]         b e l u m sp
+benar           [benar]         b @ n @ r sp
+benar           [benar]         b @ n a r sp
+benar           [benar]         b e n a r sp
+bentar          [bentar]        b @ n t a r sp
+bentar          [bentar]        b e n t a r sp
+berada          [berada]        b @ r a d a sp
+berada          [berada]        b e r a d a sp
+berakibat       [berakibat]     b @ r a k i b a t sp
+berakibat       [berakibat]     b e r a k i b a t sp
+berapa          [berapa]        b @ r a p a sp
+berapa          [berapa]        b e r a p a sp
+berarti         [berarti]       b @ r a r t i sp
+berarti         [berarti]       b e r a r t i sp
+berat           [berat]         b @ r a t sp
+berat           [berat]         b e r a t sp
+berbunyi        [berbunyi]      b e r b u ny i sp
+berhenti        [berhenti]      b @ r h @ n t i sp
+berhenti        [berhenti]      b e r h e n t i sp
+berkontribusi   [berkontribusi] b @ r k o n t r i b u s i sp
+berkontribusi   [berkontribusi] b e r k o n t r i b u s i sp
+bersih          [bersih]        b @ r s i h sp
+bersih          [bersih]        b e r s i h sp
+besar           [besar]         b @ s a r sp
+besar           [besar]         b e s a r sp
+biar            [biar]          b i a r sp
+biar            [biar]          b i y a r sp
+biasa           [biasa]         b i a s a sp
+biasa           [biasa]         b i y a s a sp
+biasanya        [biasanya]      b i a s a ny sp
+biasanya        [biasanya]      b i a s a ny a sp
+biasanya        [biasanya]      b i y a s a ny a sp
+bilang          [bilang]        b i l a ng sp
+bisa            [bisa]          b i s a sp
+boleh           [boleh]         b o l @ h sp
+boleh           [boleh]         b o l e h sp
+bolong          [bolong]        b o l o ng sp
+bolongnya       [bolongnya]     b o l o ng ny a sp
+buat            [buat]          b u a t sp
+buat            [buat]          b u w a t sp
+bukan           [bukan]         b u k a n sp
+bulan           [bulan]         b u l a n sp
+bungsu          [bungsu]        b u ng s u sp
+bungsunya       [bungsunya]     b u ng s u ny a sp
+butuh           [butuh]         b u t u h sp
+cahaya          [cahaya]        c a h a y a sp
+cahayanya       [cahayanya]     c a h a y a ny a sp
+cari            [cari]          c a r i sp
+cek             [cek]           c e k sp
+cepat           [cepat]         c @ p a t sp
+cepat           [cepat]         c e p a t sp
+coba            [coba]          c o b a sp
+cocok           [cocok]         c o c o k sp
+cukup           [cukup]         c u k u p sp
+cuma            [cuma]          c u m a sp
+cuman           [cuman]         c u m a n sp
+dalam           [dalam]         d a l @ m sp
+dalam           [dalam]         d a l a m sp
+dan             [dan]           d a n sp
+dapat           [dapat]         d a p a t sp
+darah           [darah]         d a r a h sp
+darahnya        [darahnya]      d a r a h ny a sp
+dari            [dari]          d a r i sp
+deh             [deh]           d @ h sp
+deh             [deh]           d e h sp
+dengan          [dengan]        d @ ng a n sp
+dengan          [dengan]        d e ng a n sp
+depan           [depan]         d @ p a n sp
+depan           [depan]         d e p a n sp
+di              [di]            d i sp
+diambil         [diambil]       d i a m b i l sp
+diatur          [diatur]        d i a t u r sp
+dibawa          [dibawa]        d i b a w a sp
+dibawa          [dibawa]        d i b aw a sp
+dibersihkan     [dibersihkan]   d i b @ r s i h k a n sp
+dibersihkan     [dibersihkan]   d i b e r s i h k a n sp
+dibiarkan       [dibiarkan]     d i b i a r k a n sp
+dibius          [dibius]        d i b i u s sp
+dibuat          [dibuat]        d i b u a t sp
+dibuat          [dibuat]        d i b u w a t sp
+dicabut         [dicabut]       d i c a b u t sp
+diganti         [diganti]       d i g a n t i sp
+dikepal         [dikepal]       d i k @ p a l sp
+dilepas         [dilepas]       d i l @ p a s sp
+dilepas         [dilepas]       d i l e p a s sp
+diluruskan      [diluruskan]    d i l u r u s k a n sp
+dioperasi       [dioperasi]     d i o p @ r a s i sp
+dioperasi       [dioperasi]     d i o p e r a s i sp
+dioperasi       [dioperasi]     d i y o p @ r a s i sp
+dipakai         [dipakai]       d i p a k a i sp
+dipakai         [dipakai]       d i p a k a y sp
+dipakai         [dipakai]       d i p a k ay sp
+dipanggil       [dipanggil]     d i p a ng g i l sp
+diperiksakan    [diperiksakan]  d i p e r i k s a k a n sp
+dirutinin       [dirutinin]     d i r u t i n i n sp
+disebelah       [disebelah]     d i s @ b @ l a h sp
+disedot         [disedot]       d i s e d o t sp
+disuruh         [disuruh]       d i s u r u h sp
+ditambakl       [ditambakl]     d i t a m b a k sp
+ditanyakan      [ditanyakan]    d i t a ny a k a n sp
+ditetesin       [ditetesin]     d i t e t e s i n sp
+diukur          [diukur]        d i u k u r sp
+dok             [dok]           d o k sp
+dokter          [dokter]        d o k t @ r sp
+dokter          [dokter]        d o k t e r sp
+dong            [dong]          d o ng sp
+donor           [donor]         d o n o r sp
+dua             [dua]           d u a sp
+dua             [dua]           d u w a sp
+duduk           [duduk]         d u d u k sp
+duh             [duh]           d u h sp
+dulu            [dulu]          d u l u sp
+eh              [eh]            @ h sp
+eh              [eh]            e h sp
+empat           [empat]         @ m p a t sp
+empat           [empat]         e m p a t sp
+empatnya        [empatnya]      @ m p a t ny a sp
+empatnya        [empatnya]      e m p a t ny a sp
+enggak          [enggak]        @ ng g a sp
+enggak          [enggak]        @ ng g a k sp
+enggak          [enggak]        e ng g a k sp
+entar           [entar]         @ n t a r sp
+entar           [entar]         e n t a r sp
+faktor          [faktor]        f a k t o r sp
+fokus           [fokus]         f o k u s sp
+form            [form]          f o r m sp
+form            [form]          f o r r @ m sp
+form-nya        [form-nya]      f o r m ny a sp
+ganti           [ganti]         g a n t i sp
+gede            [gede]          g @ d @ sp
+gede            [gede]          g @ d e sp
+gede            [gede]          g e d e sp
+gejala          [gejala]        g @ j a l a sp
+gejala          [gejala]        g e j a l a sp
+geraham         [geraham]       g @ r a h a m sp
+gerak-gerak     [gerak-gerak]   g e r a k g e r a k sp
+gigi            [gigi]          g i g i sp
+gigi-gigi       [gigi-gigi]     g i g i g i g i sp
+giginya         [giginya]       g i g i ny a sp
+gim             [gim]           g i m sp
+gimana          [gimana]        g i m a n a sp
+gini            [gini]          g i n i sp
+gitu            [gitu]          g i t u sp
+habis           [habis]         h a b i s sp
+habisnya        [habisnya]      h a b i s ny a sp
+hah             [hah]           h a h sp
+hampir          [hampir]        h a m p i r sp
+hanya           [hanya]         h a ny a sp
+harganya        [harganya]      h a r g a ny a sp
+hari            [hari]          h a r i sp
+harinya         [harinya]       h a r i ny a sp
+harus           [harus]         h a r u s sp
+hati-hati       [hati-hati]     h a t i h a t i sp
+hemoglobin      [hemoglobin]    h e m o g l o b i n sp
+hemoglobinnya   [hemoglobinnya] h @ m o g l o b i n ny a sp
+hilang          [hilang]        h i l a ng sp
+hingga          [hingga]        h i ng g a sp
+ikutan          [ikutan]        i k u t a n sp
+ingat           [ingat]         i ng a t sp
+ingin           [ingin]         i ng i n sp
+ini             [ini]           i n i sp
+ininya          [ininya]        i n i ny a sp
+isi             [isi]           i s i sp
+itu             [itu]           i t u sp
+iya             [iya]           i a sp
+iya             [iya]           i y a sp
+jadi            [jadi]          j a d i sp
+jadinya         [jadinya]       j a d i ny a sp
+jam             [jam]           j a m sp
+jangan          [jangan]        j a ng a n sp
+jangka          [jangka]        j a ng k a sp
+jari            [jari]          j a r i sp
+juga            [juga]          j u g a sp
+jumlah          [jumlah]        j u m l a h sp
+justru          [justru]        j u s t r u sp
+jutaan          [jutaan]        j u t a a n sp
+kacamata        [kacamata]      k a c a m a t a sp
+kadar           [kadar]         k a d a r sp
+kaget           [kaget]         k a g @ t sp
+kaget           [kaget]         k a g e t sp
+kalau           [kalau]         k a l a u sp
+kalau           [kalau]         k a l a w sp
+kalau           [kalau]         k a l aw sp
+kalau           [kalau]         k a l o sp
+kali            [kali]          k a l i sp
+kalo            [kalo]          k a l o sp
+kan             [kan]           k a n sp
+kanan           [kanan]         k a n a n sp
+karang-karang   [karang-karang] k a r a ng k a r a ng sp
+karangnya       [karangnya]     k a r a ng ny a sp
+karena          [karena]        k a r @ n a sp
+karena          [karena]        k a r e n a sp
+kasih           [kasih]         k a s i sp
+kasih           [kasih]         k a s i h sp
+kasur           [kasur]         k a s u r sp
+kasus           [kasus]         k a s u s sp
+katanya         [katanya]       k a t a ny a sp
+kaya            [kaya]          k a y a sp
+kayak           [kayak]         k a y a sp
+kayak           [kayak]         k a y a k sp
+kayaknya        [kayaknya]      k a y a k ny a sp
+kayaknya        [kayaknya]      k a y a ny a sp
+ke              [ke]            k @ sp
+ke              [ke]            k e sp
+kebetulan       [kebetulan]     k @ b @ t u l a n sp
+kebetulan       [kebetulan]     k e b e t u l a n sp
+kebiasaannya    [kebiasaannya]  k @ b i a s a a n ny a sp
+kecil           [kecil]         k @ c i l sp
+kecil           [kecil]         k e c i l sp
+kecil-kecil     [kecil-kecil]   k @ c i l k @ c i l sp
+kecil-kecil     [kecil-kecil]   k e c i l k e c i l sp
+kedepannya      [kedepannya]    k @ d @ p a n ny a sp
+kedepannya      [kedepannya]    k e d e p a n ny a sp
+kedua           [kedua]         k @ d u a sp
+kedua           [kedua]         k @ d u w a sp
+kedua           [kedua]         k e d u a sp
+keinginannya    [keinginannya]  k @ i ng i n a n ny a sp
+keinginannya    [keinginannya]  k e i ng i n a n ny a sp
+kelihatan       [kelihatan]     k @ l i h a t a n sp
+kelihatan       [kelihatan]     k @ l i y a t a n sp
+kelihatan       [kelihatan]     k e l i h a t a n sp
+keluhan         [keluhan]       k @ l u h a n sp
+keluhan         [keluhan]       k e l u h a n sp
+kemerahan       [kemerahan]     k e m e r a h a n sp
+kemudian        [kemudian]      k @ m u d i a n sp
+kemudian        [kemudian]      k @ m u d i y a n sp
+kemudian        [kemudian]      k e m u d i a n sp
+kemungkinan     [kemungkinan]   k @ m u ng k i n a n sp
+kemungkinan     [kemungkinan]   k e m u ng k i n a n sp
+kenapa          [kenapa]        k @ n a p a sp
+kenapa          [kenapa]        k e n a p a sp
+keras           [keras]         k @ r a s sp
+keras           [keras]         k e r a s sp
+kerasa          [kerasa]        k @ r a s a sp
+kerasa          [kerasa]        k e r a s a sp
+kerja           [kerja]         k @ r j a sp
+kerja           [kerja]         k e r j a sp
+kerjain         [kerjain]       k @ r j a i n sp
+kerjain         [kerjain]       k e r j a i n sp
+ketiga          [ketiga]        k @ t i g a sp
+ketiga          [ketiga]        k e t i g a sp
+ketika          [ketika]        k @ t i k a sp
+ketika          [ketika]        k e t i k a sp
+khusus          [khusus]        k u s u s sp
+khusus          [khusus]        kh u s u s sp
+kira            [kira]          k i r a sp
+kira-kira       [kira-kira]     k i r a k i r a sp
+kiri            [kiri]          k i r i sp
+kirinya         [kirinya]       k i r i ny a sp
+kita            [kita]          k i t a sp
+kok             [kok]           k o sp
+kok             [kok]           k o k sp
+komputer        [komputer]      k o m p u t @ r sp
+komputer        [komputer]      k o m p u t e r sp
+konsultasi      [konsultasi]    k o n s u l t a s i sp
+kudu            [kudu]          k u d u sp
+kurang          [kurang]        k u r a ng sp
+kursi           [kursi]         k u r s i sp
+lagi            [lagi]          l a g i sp
+lah             [lah]           l a sp
+lah             [lah]           l a h sp
+lain            [lain]          l a i n sp
+lain            [lain]          l a y i n sp
+lain            [lain]          l ay n sp
+lainnya         [lainnya]       l a i n ny a sp
+lainnya         [lainnya]       l a y i n ny a sp
+lainnya         [lainnya]       l ay i n ny a sp
+lainnya         [lainnya]       l ay n ny a sp
+lama            [lama]          l a m a sp
+lama-lama       [lama-lama]     l a m a l a m a sp
+langkah         [langkah]       l a ng k a h sp
+laptop          [laptop]        l a p t o p sp
+laptop          [laptop]        l e p t o p sp
+laptopnya       [laptopnya]     l a p t o p ny a sp
+layar           [layar]         l a y a r sp
+lebih           [lebih]         l @ b i sp
+lebih           [lebih]         l @ b i h sp
+lebih           [lebih]         l e b i h sp
+lepas           [lepas]         l @ p a s sp
+lepas           [lepas]         l e p a s sp
+lihat           [lihat]         l i a t sp
+lihat           [lihat]         l i h a sp
+lihat           [lihat]         l i h a t sp
+lihat           [lihat]         l i y a t sp
+lima            [lima]          l i m a sp
+lumayan         [lumayan]       l u m a y a n sp
+lupa            [lupa]          l u p a sp
+maaf            [maaf]          m a a f sp
+mahasiswa       [mahasiswa]     m a h a s i s w a sp
+main            [main]          m a i n sp
+main            [main]          m a y i n sp
+main            [main]          m ay n sp
+makanya         [makanya]       m a k a ny a sp
+makasih         [makasih]       m a k a s i h sp
+makin           [makin]         m a k i n sp
+maklum          [maklum]        m a k l u m sp
+maksudnya       [maksudnya]     m a k s u d ny a sp
+maksudnya       [maksudnya]     m a k s u t ny a sp
+malah           [malah]         m a l a h sp
+malam           [malam]         m a l @ m sp
+malam           [malam]         m a l a m sp
+mana            [mana]          m a n a sp
+mas             [mas]           m a s sp
+masa            [masa]          m a s a sp
+masih           [masih]         m a s i h sp
+masuk           [masuk]         m a s u sp
+masuk           [masuk]         m a s u k sp
+mata            [mata]          m a t a sp
+matanya         [matanya]       m a t a ny a sp
+mau             [mau]           m a u sp
+mau             [mau]           m a w u sp
+mau             [mau]           m aw sp
+mau             [mau]           m aw u sp
+mbak            [mbak]          m b a sp
+mbak            [mbak]          m b a k sp
+mbaknya         [mbaknya]       m b a ny a sp
+melakukan       [melakukan]     m @ l a k u k a n sp
+melakukan       [melakukan]     m e l a k u k a n sp
+memang          [memang]        e m a ng sp
+memang          [memang]        m @ m a ng sp
+memang          [memang]        m e m a ng sp
+membantu        [membantu]      m @ m b a n t u sp
+membantu        [membantu]      m e m b a n t u sp
+membeku         [membeku]       m @ m b @ k u sp
+membersihkannya [membersihkannya] m e m b e r s i h k a n ny a sp
+mempengaruhi    [mempengaruhi]  m @ m p @ ng a r u h i sp
+mempengaruhi    [mempengaruhi]  m @ m p e ng a r u h i sp
+mempengaruhi    [mempengaruhi]  m e m p e ng a r u h i sp
+menangkal       [menangkal]     m @ n a ng k a l sp
+menangkal       [menangkal]     m e n a ng k a l sp
+mendingan       [mendingan]     m @ n d i ng a n sp
+mendingan       [mendingan]     m e n d i ng a n sp
+menemukan       [menemukan]     m @ n @ m u k a n sp
+menemukan       [menemukan]     m e n e m u k a n sp
+menerima        [menerima]      m @ n @ r i m a sp
+menerima        [menerima]      m e n e r i m a sp
+menggunakan     [menggunakan]   m @ ng g u n a k a n sp
+menggunakan     [menggunakan]   m e ng g u n a k a n sp
+mengharuskan    [mengharuskan]  m e ng h a r u s k a n sp
+mengukur        [mengukur]      m @ ng u k u r sp
+mengukur        [mengukur]      m e ng u k u r sp
+menguyah        [menguyah]      m @ ng u y a h sp
+menjadi         [menjadi]       m @ n j a d i sp
+menjadi         [menjadi]       m e n j a d i sp
+menjangkau      [menjangkau]    m e n j a ng k a u sp
+menunggu        [menunggu]      m @ n u ng g u sp
+menunggu        [menunggu]      m e n u ng g u sp
+menurut         [menurut]       m @ n u r u t sp
+menurut         [menurut]       m e n u r u t sp
+merah           [merah]         m @ r a h sp
+merah           [merah]         m e r a h sp
+merah-merah     [merah-merah]   m e r a h m e r a h sp
+merahnya        [merahnya]      m e r a h ny a sp
+meredakan       [meredakan]     m @ r @ d a k a n sp
+meredakan       [meredakan]     m e r e d a k a n sp
+mili            [mili]          m i l i sp
+minus           [minus]         m i n u s sp
+miring          [miring]        m i r i ng sp
+misal           [misal]         m i s a l sp
+misalnya        [misalnya]      m i s a l ny a sp
+mulai           [mulai]         m u l a i sp
+mulai           [mulai]         m u l a y sp
+mulai           [mulai]         m u l ay sp
+mungkin         [mungkin]       m u ng k i n sp
+nabrak          [nabrak]        n a b r a k sp
+nah             [nah]           n a sp
+nah             [nah]           n a h sp
+nama            [nama]          n a m a sp
+nambah          [nambah]        n a m b a h sp
+nanti           [nanti]         n a n t i sp
+nanti           [nanti]         n a n t i ny a sp
+napas           [napas]         n a p a s sp
+nempel          [nempel]        n e m p e l sp
+netesinnya      [netesinnya]    n e t e s i n ny a sp
+ngerjain        [ngerjain]      ng @ r j a i n sp
+ngerjain        [ngerjain]      ng @ r j a y i n sp
+ngerjain        [ngerjain]      ng e r j a i n sp
+ngerokok        [ngerokok]      ng @ r o k o k sp
+nih             [nih]           n i sp
+nih             [nih]           n i h sp
+normal          [normal]        n o r m a l sp
+nunggu          [nunggu]        n u ng g u sp
+nyabut          [nyabut]        ny a b u t sp
+nyerang         [nyerang]       ny @ r a ng sp
+nyeri-nyeri     [nyeri-nyeri]   ny @ r i ny @ r i sp
+nyeri-nyeri     [nyeri-nyeri]   ny e r i ny e r i sp
+nyeruduk        [nyeruduk]      ny @ r u d u k sp
+obat            [obat]          o b a t sp
+obat-obat       [obat-obat]     o b a t o b a t sp
+oh              [oh]            e u h sp
+oh              [oh]            o sp
+oh              [oh]            o h sp
+oke             [oke]           o k @ sp
+oke             [oke]           o k e sp
+oke-oke         [oke-oke]       o k e o k e sp
+optik           [optik]         o p t i k sp
+optiknya        [optiknya]      o p t i k ny a sp
+otot            [otot]          o t o t sp
+pagi            [pagi]          p a g i sp
+pak             [pak]           p a sp
+pak             [pak]           p a k sp
+pakai           [pakai]         p a k a i sp
+pakai           [pakai]         p a k a y sp
+pakai           [pakai]         p a k ay sp
+paling          [paling]        p a l i ng sp
+palsu           [palsu]         p a l s u sp
+panjang         [panjang]       p a n j a ng sp
+parah           [parah]         p a r a h sp
+pas             [pas]           p a s sp
+pasti           [pasti]         p a s t i sp
+pastiin         [pastiin]       p a s t i i n sp
+pastikan        [pastikan]      p a s t i k a n sp
+pencahayaannya  [pencahayaannya] p @ n c a h a y a a n ny a sp
+pengambilan     [pengambilan]   p @ ng a m b i l a n sp
+pengambilan     [pengambilan]   p e ng a m b i l a n sp
+pengetahuan     [pengetahuan]   p @ ng @ t a h u w a n sp
+pengetahuan     [pengetahuan]   p @ ng e t a h u a n sp
+pengetahuan     [pengetahuan]   p e ng e t a h u a n sp
+penjelasan      [penjelasan]    p @ n j @ l a s a n sp
+penjelasan      [penjelasan]    p @ n j e l a s a n sp
+penjelasan      [penjelasan]    p e n j e l a s a n sp
+penting         [penting]       p @ n t i ng sp
+penting         [penting]       p e n t i ng sp
+penyebab        [penyebab]      p @ ny @ b a b sp
+penyebab        [penyebab]      p @ ny e b a b sp
+penyebab        [penyebab]      p e ny e b a b sp
+per             [per]           p @ r sp
+per             [per]           p e r sp
+periksa         [periksa]       p @ r i k s a sp
+periksa         [periksa]       p e r i k s a sp
+perlu           [perlu]         p @ r l u sp
+perlu           [perlu]         p e r l u sp
+permisi         [permisi]       p @ r m i s i sp
+permisi         [permisi]       p e r m i s i sp
+pertama         [pertama]       p @ r t a a m a sp
+pertama         [pertama]       p @ r t a m a sp
+pertama         [pertama]       p e r t a m a sp
+pikir-pikir     [pikir-pikir]   p i k i r p i k i r sp
+plak            [plak]          p l a k sp
+plaknya         [plaknya]       p l a k ny a sp
+plus            [plus]          p l u s sp
+praktiknya      [praktiknya]    p r a k t i k ny a sp
+puluh           [puluh]         p u l u sp
+puluh           [puluh]         p u l u h sp
+punya           [punya]         p u ny a sp
+radiasi         [radiasi]       r a d i a s i sp
+rapuh           [rapuh]         r a p u h sp
+rasa            [rasa]          r a s a sp
+rasa-rasa       [rasa-rasa]     r a s a r a s a sp
+rasanya         [rasanya]       r a s a ny a sp
+ratus           [ratus]         r a t u s sp
+ratusan         [ratusan]       r a t u s a n sp
+reda            [reda]          r @ d a sp
+reda            [reda]          r e d a sp
+redup           [redup]         r @ d u p sp
+resepkan        [resepkan]      r @ s e p k a n sp
+resepkan        [resepkan]      r e s e p k a n sp
+resepnya        [resepnya]      r @ s e p ny a sp
+resepnya        [resepnya]      r e s e p ny a sp
+risiko          [risiko]        r i s i k o sp
+ruang           [ruang]         r u a ng sp
+ruang           [ruang]         r u w a ng sp
+ruangan         [ruangan]       r u a ng a n sp
+ruangan         [ruangan]       r u w a ng a n sp
+rutinitas       [rutinitas]     r u t i n i t a s sp
+saja            [saja]          a j a sp
+saja            [saja]          s a j a sp
+sakit           [sakit]         s a k i t sp
+sakitnya        [sakitnya]      s a k i t ny a sp
+salah           [salah]         s a l a h sp
+sama            [sama]          s a m a sp
+sama-sama       [sama-sama]     s a m a s a m a sp
+sampai          [sampai]        s a m p a i sp
+sampai          [sampai]        s a m p a y sp
+sampai          [sampai]        s a m p ay sp
+sampai          [sampai]        s a m p e sp
+samping         [samping]       s a m p i ng sp
+sana            [sana]          s a n a sp
+satu            [satu]          s a t u sp
+saya            [saya]          s a y a sp
+saya            [saya]          s ay a sp
+saya            [saya]          s ay y a sp
+seadanya        [seadanya]      s @ a d a ny a sp
+sebaiknya       [sebaiknya]     s @ b a i k ny a sp
+sebaiknya       [sebaiknya]     s e b a i k ny a sp
+sebelah         [sebelah]       s @ b @ l a h sp
+sebelah         [sebelah]       s @ b e l a h sp
+sebelah         [sebelah]       s e b e l a h sp
+sebelum         [sebelum]       s @ b @ l u m sp
+sebelum         [sebelum]       s @ b e l u m sp
+sebelum         [sebelum]       s e b e l u m sp
+sebelumnya      [sebelumnya]    s @ b @ l u m ny a sp
+sebelumnya      [sebelumnya]    s @ b e l u m ny a sp
+sebelumnya      [sebelumnya]    s e b e l u m ny a sp
+sebenarnya      [sebenarnya]    s @ b @ n @ r ny a sp
+sebenarnya      [sebenarnya]    s @ b @ n a r ny a sp
+sebenarnya      [sebenarnya]    s @ b e n a r ny a sp
+sebenarnya      [sebenarnya]    s e b e n a r ny a sp
+sebentar        [sebentar]      s @ b @ n t a r sp
+sebentar        [sebentar]      s e b e n t a r sp
+sebulan         [sebulan]       s @ b u l a n sp
+sebulan         [sebulan]       s e b u l a n sp
+segera          [segera]        s @ g @ r a sp
+segera          [segera]        s @ g e r a sp
+segera          [segera]        s e g e r a sp
+sehari          [sehari]        s @ h a r i sp
+sehari          [sehari]        s e h a r i sp
+sehari-hari     [sehari-hari]   s @ h a r i h a r i sp
+sehari-hari     [sehari-hari]   s e h a r i h a r i sp
+seimbakng       [seimbakng]     s @ i m b a ng sp
+seingat         [seingat]       s @ i ng a t sp
+seingat         [seingat]       s e i ng a t sp
+sekalian        [sekalian]      s @ k a l i a n sp
+sekalian        [sekalian]      s @ k a l i y a n sp
+sekalian        [sekalian]      s e k a l i a n sp
+sekarang        [sekarang]      s @ k a r a ng sp
+sekarang        [sekarang]      s e k a r a ng sp
+sekitar         [sekitar]       s @ k i t a r sp
+sekitar         [sekitar]       s e k i t a r sp
+selain          [selain]        s @ l a i n sp
+selain          [selain]        s @ l a y i n sp
+selain          [selain]        s @ l ay n sp
+selain          [selain]        s e l a i n sp
+selama          [selama]        s @ l a m a sp
+selama          [selama]        s e l a m a sp
+selamat         [selamat]       s @ l a m a t sp
+selamat         [selamat]       s e l a m a t sp
+selanjutnya     [selanjutnya]   s @ l a n j u t ny a sp
+selanjutnya     [selanjutnya]   s e l a n j u t ny a sp
+sembuh          [sembuh]        s @ m b u h sp
+sembuh          [sembuh]        s e m b u h sp
+semennya        [semennya]      s @ m e n ny a sp
+semingguan      [semingguan]    s @ m i ng g u a n sp
+semoga          [semoga]        s @ m o g a sp
+semoga          [semoga]        s e m o g a sp
+semua           [semua]         s @ m u a sp
+semua           [semua]         s @ m u w a sp
+semua           [semua]         s e m u a sp
+sendiri         [sendiri]       s @ n d i r i sp
+sendiri         [sendiri]       s e n d i r i sp
+separah         [separah]       s @ p a r a h sp
+separah         [separah]       s e p a r a h sp
+seperti         [seperti]       s @ p @ r t i sp
+seperti         [seperti]       s @ p e r t i sp
+seperti         [seperti]       s e p e r t i sp
+seratus         [seratus]       s @ r a t u s sp
+seratus         [seratus]       s e r a t u s sp
+sering          [sering]        s @ r i ng sp
+sering          [sering]        s e r i ng sp
+setelah         [setelah]       s @ t @ l a h sp
+setelah         [setelah]       s e t e l a h sp
+setiap          [setiap]        s @ t i a p sp
+setiap          [setiap]        s @ t i y a p sp
+setiap          [setiap]        s e t i a p sp
+sharing         [sharing]       s e r i ng sp
+sharing         [sharing]       s h a r i ng sp
+si              [si]            e s i sp
+si              [si]            s i sp
+siang           [siang]         s i a ng sp
+siang           [siang]         s i y a ng sp
+siap            [siap]          s i a p sp
+siap            [siap]          s i y a p sp
+siapa           [siapa]         s i a p a sp
+siapa           [siapa]         s i y a p a sp
+siapa           [siapa]         sy a p a sp
+sih             [sih]           s i sp
+sih             [sih]           s i h sp
+sikat           [sikat]         s i k a t sp
+silakan         [silakan]       s i l a h k a n sp
+silakan         [silakan]       s i l a k a n sp
+silinder        [silinder]      s i l i n d @ r sp
+sini            [sini]          s i n i sp
+soalnya         [soalnya]       s o a l ny a sp
+sore            [sore]          s o r @ sp
+sore            [sore]          s o r e sp
+spesifik        [spesifik]      s p e s i f i k sp
+sudah           [sudah]         s u d a h sp
+sudah           [sudah]         u d a h sp
+supaya          [supaya]        s u p a y a sp
+suster          [suster]        s u s t @ r sp
+suster          [suster]        s u s t e r sp
+syarafnya       [syarafnya]     sy a r a f ny a sp
+tadi            [tadi]          t a d i sp
+tahu            [tahu]          t a h u sp
+tahu            [tahu]          t a u sp
+takut           [takut]         t a k u t sp
+takutnya        [takutnya]      t a k u t ny a sp
+tambakl         [tambakl]       t a m b a k sp
+tangan          [tangan]        t a ng a n sp
+tangannya       [tangannya]     t a ng a n ny a sp
+tanya           [tanya]         t a ny a sp
+tapi            [tapi]          t a p i sp
+tarik           [tarik]         t a r i k sp
+taruh           [taruh]         t a r u h sp
+tau             [tau]           t a u sp
+tau             [tau]           t a w u sp
+tau             [tau]           t aw sp
+tegang          [tegang]        t e g a ng sp
+tekanan         [tekanan]       t @ k a n a n sp
+tekanan         [tekanan]       t e k a n a n sp
+teknologi       [teknologi]     t e k n o l o g i sp
+telapak         [telapak]       t @ l a p a k sp
+telapak         [telapak]       t e l a p a k sp
+telunjuk        [telunjuk]      t @ l u n j u k sp
+telunjuk        [telunjuk]      t e l u n j u k sp
+tengah-tengah   [tengah-tengah] t @ ng a h t @ ng a h sp
+tengahnya       [tengahnya]     t @ ng a h ny a sp
+tensi           [tensi]         t e n s i sp
+tentang         [tentang]       t @ n t a ng sp
+tentang         [tentang]       t e n t a ng sp
+tepat           [tepat]         t @ p a t sp
+tepat           [tepat]         t e p a t sp
+terakumulasi    [terakumulasi]  t e r a k u m u l a s i sp
+terang          [terang]        t @ r a ng sp
+terang          [terang]        t e r a ng sp
+terasa          [terasa]        t @ r a s a sp
+terasa          [terasa]        t e r a s a sp
+tergantikan     [tergantikan]   t @ r g a n t i k a n sp
+tergantung      [tergantung]    t @ r g a n t u ng sp
+tergantung      [tergantung]    t e r g a n t u ng sp
+terhadap        [terhadap]      t @ r h a d a p sp
+terhadap        [terhadap]      t e r h a d a p sp
+terima          [terima]        t @ r i m a sp
+terima          [terima]        t e r i m a sp
+terjangkau      [terjangkau]    t @ r j a ng k aw sp
+terjangkau      [terjangkau]    t e r j a ng k a u sp
+terkena         [terkena]       t @ r k @ n a sp
+terkena         [terkena]       t e r k e n a sp
+terlalu         [terlalu]       t @ r l a l u sp
+terlalu         [terlalu]       t e r l a l u sp
+termasuk        [termasuk]      t @ r m a s u k sp
+termasuk        [termasuk]      t e r m a s u k sp
+ternyata        [ternyata]      t @ r ny a t a sp
+ternyata        [ternyata]      t e r ny a t a sp
+terus           [terus]         t @ r u s sp
+terus           [terus]         t e r u s sp
+terutama        [terutama]      t @ r u t a m a sp
+terutama        [terutama]      t e r u t a m a sp
+tetap           [tetap]         t @ t @ p sp
+tetap           [tetap]         t @ t a p sp
+tetap           [tetap]         t e t a p sp
+tetes           [tetes]         t e t e s sp
+tiap            [tiap]          t i a p sp
+tiap            [tiap]          t i y a p sp
+tidak           [tidak]         t i d a sp
+tidak           [tidak]         t i d a k sp
+tidur           [tidur]         t i d u r sp
+tiga            [tiga]          t i g a sp
+tinggal         [tinggal]       t i ng g a l sp
+tinggi          [tinggi]        t i ng g i sp
+titiknya        [titiknya]      t i t i k ny a sp
+tolong          [tolong]        t o l o ng sp
+tugas           [tugas]         t u g a s sp
+tugas-tugasnya  [tugas-tugasnya] t u g a s t u g a s ny a sp
+tuh             [tuh]           t u h sp
+tujuh           [tujuh]         t u j u h sp
+tumbuh          [tumbuh]        t u m b u h sp
+tumbuhnya       [tumbuhnya]     t u m b u h ny a sp
+tunggu          [tunggu]        t u ng g u sp
+uang            [uang]          u a ng sp
+uang            [uang]          u w a ng sp
+ucapkan         [ucapkan]       u c a p k a n sp
+udah            [udah]          u d a h sp
+ukurannya       [ukurannya]     u k u r a n ny a sp
+untuk           [untuk]         u n t u sp
+untuk           [untuk]         u n t u k sp
+usah            [usah]          u s a h sp
+usahakan        [usahakan]      u s a h a k a n sp
+waalaikumsalam  [waalaikumsalam] w a a l a i k u m s a l a m sp
+waalaikumsalam  [waalaikumsalam] w a a l ay k u m s a l a m sp
+wah             [wah]           w a h sp
+wajar           [wajar]         w a j a r sp
+waktu           [waktu]         w a k t u sp
+waktu           [waktu]         w a t u sp
+warna           [warna]         w a r n a sp
+warnanya        [warnanya]      w a r n a ny a sp
+ya              [ya]            y a sp
+ya              [ya]            y a h sp
+yaitu           [yaitu]         y a i t u sp
+yaitu           [yaitu]         y ay t u sp
+yang            [yang]          y a ng sp
+yuk             [yuk]           y u sp
+yuk             [yuk]           y u k sp
