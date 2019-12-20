@@ -1,0 +1,1 @@
+HDecode -t 150.0 -w lm_doctor_c -H hmm15/hmmdefs dict triphones1 test.scp
